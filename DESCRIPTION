@@ -1,0 +1,28 @@
+Package: tangler
+Type: Package
+Title: Manages the Donald Trump graph
+Version: 0.1.0
+Authors@R: person("Brent", "Schneeman", email = "schneeman@gmail.com",
+                  role = c("aut", "cre"))
+Maintainer: Brent Schneeman <schneeman@gmail.com>
+Description: Michael Avenatti released Michael Cohen's SARs files, which revealed connections between Cohen
+    and many other people. This package tries to help understand those connections
+License: CC-BY
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.0.2),
+    shiny
+Imports:
+    dplyr,
+    tidyr,
+    ggplot2,
+    readr,
+    ggraph,
+    tidygraph,
+    networkD3,
+    ggthemes,
+    RColorBrewer,
+    scales, 
+    lubridate,
+    here
