@@ -1,4 +1,4 @@
-
+library(tidygraph)
 
 build_graph <- function() {
   tangled <- read_csv(here::here("data/tangled.csv"))

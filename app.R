@@ -6,6 +6,8 @@
 #
 #    http://shiny.rstudio.com/
 #
+library(shiny)
+library(dplyr)
 
 devtools::load_all()
 
