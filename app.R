@@ -37,8 +37,11 @@ ui <- fluidPage(
 # Define server logic required to draw a histogram
 server <- function(input, output) {
 
+  local_graph <- reactive({get_local_graph(graph, input$node_name)})
+  local_layout <- reactive({get_local_layout(local_graph())})
+
   output$localWeb <- renderPlot({
-    get_local_graph(graph, input$node_name)
+    get_local_plot(local_graph(), local_layout(), input$node_name)
   })
 }
 
