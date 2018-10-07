@@ -1,0 +1,10 @@
+#!/bin/sh
+
+#build it
+docker build --no-cache -t tangler_app .
+
+# local test it
+docker run --rm -p 80:3838 -v $HOME/projects/github.com/tangler/:/srv/shiny-server/ tangler_app
+
+docker tag tangler_app 192.168.1.122:32500/tangler:latest
+docker push 192.168.1.122:32500/tangler
