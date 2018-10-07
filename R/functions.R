@@ -46,7 +46,8 @@ make_graph <- function(tangled) {
   graph <- g  %>% activate(nodes) %>%
     inner_join(max_cent, by = c("group" = "group",
                                 "g_max" = "centrality")) %>%
-    select(-g_max.y)
+    select(-g_max.y)  %>%
+    mutate(n_tri = local_triangles())
 
 
 
@@ -85,3 +86,27 @@ get_palette <- function(graph) {
 
   my_pal
 }
+
+build_graph <- function() {
+  tangled <- read_csv(here::here("data/tangled.csv"))
+  graph <- make_graph(tangled)
+}
+
+
+get_local_graph <- function(graph, node_name) {
+  node_id <-
+    graph %>% activate(nodes) %>% mutate(node_id = row_number()) %>%
+    filter(name == node_name) %>% pull(node_id)
+
+  local_neighborhood <-
+    graph %>% to_local_neighborhood(node = node_id, order = 2)
+
+  local_graph <- local_neighborhood$neighborhood
+  local_graph
+}
+
+get_local_layout <- function(local_graph) {
+  the_layout <- create_layout(local_graph, layout = "auto")
+  the_layout
+}
+

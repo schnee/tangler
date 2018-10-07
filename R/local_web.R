@@ -1,29 +1,6 @@
 library(tidygraph)
+library(ggraph)
 
-build_graph <- function() {
-  tangled <- read_csv(here::here("data/tangled.csv"))
-  graph <- make_graph(tangled) %>%
-    activate(nodes) %>%
-    mutate(n_tri = local_triangles())
-}
-
-
-get_local_graph <- function(graph, node_name) {
-  node_id <-
-    graph %>% activate(nodes) %>% mutate(node_id = row_number()) %>%
-    filter(name == node_name) %>% pull(node_id)
-
-  local_neighborhood <-
-    graph %>% to_local_neighborhood(node = node_id, order = 2)
-
-  local_graph <- local_neighborhood$neighborhood
-  local_graph
-}
-
-get_local_layout <- function(local_graph) {
-  the_layout <- create_layout(local_graph, layout = "auto")
-  the_layout
-}
 
 get_local_plot <- function(graph, the_layout, node_name) {
   #local_graph <- local_graph %>% filter(n_tri > 0)
