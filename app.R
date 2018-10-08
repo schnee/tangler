@@ -22,26 +22,59 @@ the_choices <-
 # Define UI for application that draws a histogram
 ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                 # Sidebar with a slider input for number of bins
-                sidebarLayout(sidebarPanel((
+                sidebarLayout(sidebarPanel(
+                  checkboxInput("only_triangles","Only Triangles"),
+                  tags$br(),
                   selectInput("node_name",
                               "Name of the Node (Ordered by Importance)",
                               choices = the_choices)
-                )),
+                ),
                 mainPanel(
                   tabsetPanel(
                     type = "tabs",
                     tabPanel("Aesthetic", plotOutput("localWeb", height = "800px")),
-                    tabPanel("Interactive", plotlyOutput("local_plotly", height = "800px"))
+                    tabPanel("Interactive", plotlyOutput("local_plotly", height = "800px")),
+                    tabPanel("About",
+                             tags$div("The Tangled Web Visualizer attempts to make sense of all the
+                                      connections and alleged connections in the Michael Cohen /
+                                      Donald Trump / Russia universe."),
+                             tags$br(),
+                             tags$div("The ", strong("Name of the Node"), " select box allows you to focus on the named
+                                      node, and the visualizer will show nodes within degree two of that node. Using the ",
+                                      strong("Only Triangles"), " checkbox will limit the nodes to only those nodes that form
+                                      triangles in the overall graph, on the theory that nodes in triangles are important
+                                      for link prediction and community detection. Selecting triangles will reduce the number
+                                      of nodes and clean up the output."),
+                             tags$br(),
+                             tags$div("The ",strong("Aesthetic"), " tab shows a the network via an
+                                      attempt to make a pretty picture."),
+                             tags$br(),
+                             tags$div("The ", strong("Interactive"), " tab show a plot that one can enlarge / zoom
+                                      in/out and pan around. Additionally, the blue text on the edges are ",
+                                      strong("clickable"), " and will open a browser window to the source of the
+                                      connection between the two nodes."),
+                             tags$br(),
+                             tags$div("All this is explained in the ", tags$a(href="https://schnee.github.io/tangled", "main site"),
+                                      " which also contains a solicitation for help, should you be so moved.")
+                             )
                   )
                 )))
 
 # Define server logic required to draw a histogram
-server <- function(input, output) {
+server <- function(input, output, session) {
   local_graph <- reactive({
-    get_local_graph(graph, input$node_name)
+    get_local_graph(graph, input$node_name, input$only_triangles)
   })
   local_layout <- reactive({
     get_local_layout(local_graph())
+  })
+
+  observe({
+    the_new_choices <-
+      local_graph() %>% activate(nodes) %>% arrange(desc(centrality)) %>% pull(name)
+    updateSelectInput(session, "node_name",
+                      selected = input$node_name,
+                      choices = the_new_choices)
   })
 
   output$localWeb <- renderPlot({

@@ -93,7 +93,10 @@ build_graph <- function() {
 }
 
 
-get_local_graph <- function(graph, node_name) {
+get_local_graph <- function(graph, node_name, triangles) {
+  if(triangles){
+    graph <- graph %>% filter(n_tri > 0)
+  }
   node_id <-
     graph %>% activate(nodes) %>% mutate(node_id = row_number()) %>%
     filter(name == node_name) %>% pull(node_id)

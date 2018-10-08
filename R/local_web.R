@@ -3,7 +3,6 @@ library(ggraph)
 
 
 get_local_plot <- function(graph, the_layout, node_name) {
-  #local_graph <- local_graph %>% filter(n_tri > 0)
 
   my_pal <- get_palette(graph)
   the_edge_types <-
