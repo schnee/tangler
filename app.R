@@ -55,7 +55,9 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                                       connection between the two nodes."),
                              tags$br(),
                              tags$div("All this is explained in the ", tags$a(href="https://schnee.github.io/tangled", "main site"),
-                                      " which also contains a solicitation for help, should you be so moved.")
+                                      " which also contains a solicitation for help, should you be so moved."),
+                             tags$br(),
+                             tags$div("Brent Schneeman, @schnee")
                              )
                   )
                 )))
