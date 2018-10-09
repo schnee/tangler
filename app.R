@@ -29,7 +29,10 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                     tags$div("Number of nodes: ",textOutput("count")),
                     selectInput("node_name",
                                 "Name of the Node (Ordered by Importance)",
-                                choices = c("Choose One" = "",the_choices))
+                                choices = c("Choose One" = "",the_choices)),
+                    tags$br(),
+                    tags$div("This server is rather slow, so you will want to wait for
+                             a bit longer than you think you need to")
 
                   ),
                   mainPanel(tabsetPanel(
@@ -80,7 +83,11 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                       ),
                       tags$br(),
                       tags$div("Brent Schneeman, @schnee")
-                      )
+                      ),
+                    tabPanel(
+                      "The Whole Web",
+                      tags$img(src = "https://schnee.github.io/tangled/tangled.png")
+                    )
                       ))
                   ))
 

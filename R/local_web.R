@@ -46,7 +46,7 @@ get_local_plot <- function(graph, the_layout, node_name) {
     ) +
     labs(
       title = paste0("The ", node_name, " Tangled Web"),
-      caption = paste(now("UTC"), "https://schnee.github.io/tangled", sep =
+      caption = paste(now("UTC"), "http://schnee.world:81/myapps/tangler", sep =
                         '\n')
     )
 
