@@ -12,7 +12,7 @@ library(plotly)
 
 devtools::load_all()
 
-update_edgelist()
+# update_edgelist()
 
 graph <- build_graph()
 
