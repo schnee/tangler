@@ -86,7 +86,9 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                       ),
                     tabPanel(
                       "The Whole Web",
-                      tags$div("For more context, see ", tags$a(href="https://schnee.github.io/tangled", "the static site")),
+                      tags$div("For more context, see ", tags$a(href="https://schnee.github.io/tangled", "the static site.
+                                                                You will probably want to scroll around to see the image,
+                                                                or right-click and open in a new tab.")),
                       tags$img(src = "https://schnee.github.io/tangled/tangled.png")
                     )
                       ))
