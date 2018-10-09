@@ -26,10 +26,10 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                   sidebarPanel(
                     checkboxInput("only_triangles", "Only Triangles"),
                     tags$br(),
-                    textOutput("count"),
+                    tags$div("Number of nodes: ",textOutput("count")),
                     selectInput("node_name",
                                 "Name of the Node (Ordered by Importance)",
-                                choices = the_choices)
+                                choices = c("Choose One" = "",the_choices))
 
                   ),
                   mainPanel(tabsetPanel(
@@ -87,7 +87,9 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
 # Define server logic required to draw a histogram
 server <- function(input, output, session) {
   local_graph <- reactive({
-    get_local_graph(graph, input$node_name, input$only_triangles)
+    node_name <- input$node_name
+    only_tri <- input$only_triangles
+    isolate(get_local_graph(graph, node_name, only_tri))
   })
   local_layout <- reactive({
     get_local_layout(local_graph())
@@ -107,10 +109,10 @@ server <- function(input, output, session) {
 
   observe({
     input$only_triangles
-    updateSelectInput(session,
+    isolate(updateSelectInput(session,
                       "node_name",
                       selected = input$node_name,
-                      choices = the_new_choices())
+                      choices = c("Choose One" = "",the_new_choices())))
   })
 
   output$count <- renderText({
@@ -118,11 +120,15 @@ server <- function(input, output, session) {
   })
 
   output$localWeb <- renderPlot({
+    if(nchar(input$node_name) > 0) {
     get_local_plot(local_graph(), local_layout(), input$node_name)
+    }
   })
 
   output$local_plotly <- renderPlotly({
+    if(nchar(input$node_name) > 0) {
     get_local_plotly(local_graph(), local_layout())
+    }
   })
 }
 
