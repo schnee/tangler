@@ -93,7 +93,7 @@ build_graph <- function() {
 }
 
 
-get_local_graph <- function(graph, node_name, triangles) {
+get_local_graph <- function(graph, node_name, triangles, order = 2) {
   if(triangles){
     graph <- graph %>% filter(n_tri > 0)
   }
@@ -102,7 +102,7 @@ get_local_graph <- function(graph, node_name, triangles) {
     filter(name == node_name) %>% pull(node_id)
 
   local_neighborhood <-
-    graph %>% to_local_neighborhood(node = node_id, order = 2)
+    graph %>% to_local_neighborhood(node = node_id, order)
 
   local_graph <- local_neighborhood$neighborhood
   local_graph

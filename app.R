@@ -29,7 +29,13 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                     tags$div("Number of nodes: ",textOutput("count")),
                     selectInput("node_name",
                                 "Name of the Node (Ordered by Importance)",
+                                selected = the_choices[1],
                                 choices = c("Choose One" = "",the_choices)),
+                    tags$br(),
+                    sliderInput("order",
+                                "Order of Neighborhood",
+                                min = 2, max = 5, value = 2,
+                                step = 1),
                     tags$br(),
                     tags$div("This server is rather slow, so you will want to wait for
                              a bit longer than you think you need to")
@@ -56,7 +62,9 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                         " checkbox will limit the nodes to only those nodes that form
                         triangles in the overall graph, on the theory that nodes in triangles are important
                         for link prediction and community detection. Selecting triangles will reduce the number
-                        of nodes and clean up the output."
+                        of nodes and clean up the output. The ",
+                        strong("Order of Neighborhood"), " slider defines how many 'hops' away from the selected",
+                        "node to go to include within the graph."
                       ),
                       tags$br(),
                       tags$div(
@@ -86,9 +94,10 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                       ),
                     tabPanel(
                       "The Whole Web",
-                      tags$div("For more context, see ", tags$a(href="https://schnee.github.io/tangled", "the static site.
-                                                                You will probably want to scroll around to see the image,
-                                                                or right-click and open in a new tab.")),
+                      tags$div("For more context, see ", tags$a(href="https://schnee.github.io/tangled", "the static site."),
+
+                                                                "You will probably want to scroll around to see the image,
+                                                                or right-click and open in a new tab."),
                       tags$img(src = "https://schnee.github.io/tangled/tangled.png")
                     )
                       ))
@@ -99,7 +108,8 @@ server <- function(input, output, session) {
   local_graph <- reactive({
     node_name <- input$node_name
     only_tri <- input$only_triangles
-    isolate(get_local_graph(graph, node_name, only_tri))
+    order <- input$order
+    isolate(get_local_graph(graph, node_name, only_tri, order))
   })
   local_layout <- reactive({
     get_local_layout(local_graph())
