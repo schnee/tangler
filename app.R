@@ -25,8 +25,8 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                 sidebarLayout(
                   sidebarPanel(
                     checkboxInput("only_triangles", "Only Triangles"),
-                    tags$br(),
                     tags$div("Number of nodes: ",textOutput("count")),
+                    tags$br(),
                     selectInput("node_name",
                                 "Name of the Node (Ordered by Importance)",
                                 # selected = the_choices[1],
