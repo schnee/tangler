@@ -28,7 +28,8 @@ get_local_plot <- function(graph, the_layout, node_name) {
     scale_edge_color_brewer(name = "Relationship",
                             type = "qual",
                             palette = "Dark2") +
-    geom_node_point(aes(colour = group_label), size = 4) + geom_node_point(color = "white", size = 1) +
+    geom_node_point(color = "black", size = 4.5) +
+    geom_node_point(aes(colour = group_label), size = 3.5) + geom_node_point(color = "white", size = 1) +
     geom_node_label(
       aes(label = name),
       size = 4,
