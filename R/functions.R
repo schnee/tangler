@@ -76,7 +76,7 @@ get_palette <- function(graph) {
   # now handle some aesthetics
   n_group <- graph %>% activate(nodes) %>% pull(group) %>% n_distinct()
 
-  distinctColorPalette(n_group, runTsne = TRUE)
+  distinctColorPalette(n_group, runTsne = FALSE)
 }
 
 build_graph <- function() {
