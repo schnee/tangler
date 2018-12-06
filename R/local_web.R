@@ -6,13 +6,13 @@ get_local_plot <- function(graph, the_layout, node_name) {
 
   my_pal <- get_palette(graph)
   the_edge_types <-
-    graph %>% activate(edges) %>% pull(type) %>% factor() %>% levels()
+    graph %>% activate(edges) %>% pull(e_type) %>% factor() %>% levels()
 
   ggraph(the_layout) +
     geom_edge_fan(
       aes(
-        linetype = type,
-        color = type,
+        linetype = e_type,
+        color = e_type,
         label = note
       ),
       edge_width = .65,

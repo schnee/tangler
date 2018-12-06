@@ -36,7 +36,7 @@ get_local_plotly <- function(graph, layout) {
       y0 = the_layout[v0,]$y,
       x1 = the_layout[v1,]$x,
       y1 = the_layout[v1,]$y,
-      link_type = edges[i,]$type
+      link_type = edges[i,]$e_type
     )
 
     #  edge_shapes[[i]] <- edge_shape
