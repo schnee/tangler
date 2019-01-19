@@ -12,14 +12,15 @@ library(plotly)
 
 devtools::load_all()
 
-# update_edgelist()
-
+# use this graph object across all requests
 graph <- build_graph()
 
+# this is the list of node names
 the_choices <-
   graph %>% activate(nodes) %>% arrange(desc(centrality)) %>% pull(name)
 
-# Define UI for application that draws a histogram
+# Define UI - a fluid page with a sidebar and tabs. Not exactly the best as
+# some tabs do not need the sidebar
 ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                 # Sidebar with a slider input for number of bins
                 sidebarLayout(
@@ -103,7 +104,7 @@ ui <- fluidPage(titlePanel("The Tangled Web Visualizer"),
                       ))
                   ))
 
-# Define server logic required to draw a histogram
+# Define server logic
 server <- function(input, output, session) {
   local_graph <- reactive({
     node_name <- input$node_name
