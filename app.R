@@ -144,7 +144,7 @@ server <- function(input, output, session) {
     if(nchar(input$node_name) > 0) {
     get_local_plot(local_graph(), local_layout(), input$node_name)
     }
-  })
+  }, width = 1000, height = 1000)
 
   output$local_plotly <- renderPlotly({
     if(nchar(input$node_name) > 0) {
