@@ -1,5 +1,6 @@
 library(tidygraph)
 library(ggraph)
+library(ggthemes)
 
 
 get_local_plot <- function(graph, the_layout, node_name) {
@@ -7,6 +8,9 @@ get_local_plot <- function(graph, the_layout, node_name) {
   my_pal <- get_palette(graph)
   the_edge_types <-
     graph %>% activate(edges) %>% pull(e_type) %>% factor() %>% levels()
+  
+  my_edge_pal <- c("#C0C0C0", "#FFA500", "#00B300", "#FF0000", few_pal("Dark")(8))
+
 
   ggraph(the_layout) +
     geom_edge_fan(
@@ -25,9 +29,8 @@ get_local_plot <- function(graph, the_layout, node_name) {
     ) +
     scale_edge_linetype_manual(guide = "none", values = c(5, rep(1, length(the_edge_types) -
                                                                    1))) +
-    scale_edge_color_brewer(name = "Relationship",
-                            type = "qual",
-                            palette = "Dark2") +
+    scale_edge_colour_manual(name = "Relationship",
+                            values = my_edge_pal) +
     geom_node_point(color = "black", size = 4.5) +
     geom_node_point(aes(colour = group_label), size = 3.5) + geom_node_point(color = "white", size = 1) +
     geom_node_label(
