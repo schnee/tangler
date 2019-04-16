@@ -74,13 +74,32 @@ weight_graph <- function(graph, in_group, out_group) {
 
 get_palette <- function(graph) {
   # now handle some aesthetics
-  n_group <- graph %>% activate(nodes) %>% pull(group) %>% n_distinct()
-
-  base_pal <- c("#8AAFDD", "#ECD1FB", "#F48CDC", "#F06B8A", "#529756", "#BB3DD1",
-                "#D7A4B4", "#E8E1AE", "#9E922A", "#D299F2", "#FEECF2", "#AEF9E1",
-                "#41BA30", "#5A6AC5", "#6DEAA3", "#D3F79C", "#AFB7B1", "#FEA185",
-                "#F5FC72", "#86E4FB", few_pal()(8))
-
+  n_group <-
+    graph %>% activate(nodes) %>% pull(group) %>% n_distinct()
+  
+  base_pal <- c(
+    "#3588d1",
+    "#88cc1f",
+    "#ab39f9",
+    "#687f39",
+    "#ee3597",
+    "#12d388",
+    "#6e1f1f",
+    "#05aec0",
+    "#f7393a",
+    "#048a37",
+    "#fc99d5",
+    "#04451b",
+    "#faa566",
+    "#3f1ba1",
+    "#9ac48a",
+    "#a958ab",
+    "#00d618",
+    "#273b61",
+    "#a06c32",
+    "#2d6df9"
+  )
+  
   #distinctColorPalette(n_group, runTsne = TRUE)
   base_pal
 }
