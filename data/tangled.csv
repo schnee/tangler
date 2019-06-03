@@ -13,12 +13,12 @@ date,from,to,e_type,note,source
 2016-01-20,Columbus Nova,Gawker Media,investment,15000000,https://www.vox.com/2018/5/16/17363242/michael-cohen-trump-avenatti-leaks-financial-records
 2000-01-15,Andrew Intrater,Columbus Nova,association,runs,https://web.archive.org/web/20180509003139/http://www.columbusnova.com/andrew_intrater.html
 2017-01-09,Andrew Intrater,Michael D Cohen,association,met,https://themoscowproject.org/collusion/new-york-times-reveals-meeting-between-cohen-vekselberg-intrater/
-2016-01-01,Andrew Intrater,Trump Inaguration,payment,250000,NA
+2016-01-01,Andrew Intrater,Trump Inauguration,payment,250000,NA
 1990-01-01,Viktor Vekselberg,Renova Group,association,owner,https://en.wikipedia.org/wiki/Renova_Group
 2017-01-01,Andrew Intrater,Viktor Vekselberg,association,cousin,NA
 2017-01-01,Viktor Vekselberg,Andrew Intrater,association,cousin,NA
-2017-01-20,Viktor Vekselberg,Trump Inaguration,association,attended,https://www.nbcnews.com/politics/donald-trump/meet-nice-russian-oligarch-linked-trump-lawyer-michael-cohen-n872716
-2017-01-20,Andrew Intrater,Trump Inaguration,association,attended,https://nypost.com/2018/05/11/mueller-probing-foreign-donations-to-trumps-inauguration-committee/
+2017-01-20,Viktor Vekselberg,Trump Inauguration,association,attended,https://www.nbcnews.com/politics/donald-trump/meet-nice-russian-oligarch-linked-trump-lawyer-michael-cohen-n872716
+2017-01-20,Andrew Intrater,Trump Inauguration,association,attended,https://nypost.com/2018/05/11/mueller-probing-foreign-donations-to-trumps-inauguration-committee/
 2018-04-06,US Govt,Viktor Vekselberg,association,sanctioned for meddling,http://time.com/5271000/michael-cohen-essential-consultants-novartis-vekselberg-att/
 2006-06-01,Michael D Cohen,Donald J Trump,association,works for,https://www.usnews.com/news/national-news/articles/2018-04-16/10-things-you-didnt-know-about-michael-cohen
 2017-10-05,Novartis,Essential Consultants,payment,99980,https://www.vox.com/2018/5/16/17363242/michael-cohen-trump-avenatti-leaks-financial-records
@@ -141,10 +141,10 @@ NA,George Nader,Jared Kushner,association,NA,NA
 2018-06-06,Stormy Daniels,Michael D Cohen,association,sues,https://www.cnn.com/2018/06/06/politics/stormy-daniels-new-lawsuit/index.html
 2011-06-01,Michael D Cohen,Keith M Davidson,association,collude,https://www.cnn.com/2018/06/06/politics/stormy-daniels-new-lawsuit/index.html
 2011-06-01,Keith M Davidson,Michael D Cohen,association,collude,https://www.cnn.com/2018/06/06/politics/stormy-daniels-new-lawsuit/index.html
-2018-06-01,Konstantin Kilimnik,Hapsburg Group,association,works with,https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark
-2018-05-01,Hapsburg Group,Ukraine,association,lobbies for,https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark
-2018-06-01,Konstantin Kilimnik,Paul Manafort,association,works with,https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark
-2018-06-01,Paul Manafort,Russia,association,lobbies for,https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark
+2018-06-01,Konstantin Kilimnik,Hapsburg Group,association,works with,https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html
+2018-05-01,Hapsburg Group,Ukraine,association,lobbies for,https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html
+2018-06-01,Konstantin Kilimnik,Paul Manafort,association,works with,https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html
+2018-06-01,Paul Manafort,Russia,association,lobbies for,https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html
 2018-06-01,Vladimir Putin,Russia,association,president,https://en.wikipedia.org/wiki/Vladimir_Putin
 2016-05-19,Paul Manafort,Donald J Trump,association,campaign manager,https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)
 2016-01-01,Konstantin Kilimnik,Russia,association,former spy,https://www.bloomberg.com/news/articles/2018-06-09/mueller-s-latest-charges-bring-together-trump-campaign-russia
@@ -155,12 +155,12 @@ NA,George Nader,Jared Kushner,association,NA,NA
 2016-06-09,Rinat Akhmetshin,Trump Tower,association,meeting,https://medium.com/@wsiegelman/us-person-2-in-the-case-of-alleged-russian-agent-maria-butina-is-george-o-neill-his-daughter-bb569202cf06
 2016-06-09,Natalia Veselnitskaya,Trump Tower,association,meeting,NA
 2018-04-27,Natalia Veselnitskaya,Russia,association,informant,https://www.nbcnews.com/nightly-news/video/russian-lawyer-who-met-with-kushner-don-jr-admits-to-being-an-informant-1221063235886
-1905-07-04,Viktor Yanukovych,Paul Manafort,payment,12700000,http://www.newsweek.com/paul-manafort-indictment-timeline-russia-probe-charges-696226
-1905-07-04,Viktor Yanukovych,Ukraine,association,Former President,NA
-1905-07-07,Oleg Deripaska,Paul Manafort,loan,10000000,http://www.businessinsider.com/court-document-shows-oleg-deripaska-loaned-paul-manafort-10-million-2018-6
-1905-07-07,Oleg Deripaska,Russia,association,close ties,NA
-1905-07-08,Paul Manafort,Konstantin Kilimnik,association,emails re: campaign,http://www.businessinsider.com/court-document-shows-oleg-deripaska-loaned-paul-manafort-10-million-2018-6
-1905-07-08,Konstantin Kilimnik,Oleg Deripaska,association,emails re: campaign,http://www.businessinsider.com/court-document-shows-oleg-deripaska-loaned-paul-manafort-10-million-2018-6
+2017-07-04,Viktor Yanukovych,Paul Manafort,payment,12700000,http://www.newsweek.com/paul-manafort-indictment-timeline-russia-probe-charges-696226
+2017-07-04,Viktor Yanukovych,Ukraine,association,Former President,NA
+2017-07-07,Oleg Deripaska,Paul Manafort,loan,10000000,http://www.businessinsider.com/court-document-shows-oleg-deripaska-loaned-paul-manafort-10-million-2018-6
+2017-07-07,Oleg Deripaska,Russia,association,close ties,NA
+2017-07-08,Paul Manafort,Konstantin Kilimnik,association,emails re: campaign,http://www.businessinsider.com/court-document-shows-oleg-deripaska-loaned-paul-manafort-10-million-2018-6
+2017-07-08,Konstantin Kilimnik,Oleg Deripaska,association,emails re: campaign,http://www.businessinsider.com/court-document-shows-oleg-deripaska-loaned-paul-manafort-10-million-2018-6
 2018-06-25,Donald J Trump,Chuck Rettig,association,nominates for IRS,https://www.rawstory.com/2018/06/trumps-irs-nominee-failed-disclose-crucial-information-report/
 2006-01-01,Chuck Rettig,Trump Organization,association,owns branded property,https://www.marketwatch.com/story/trumps-irs-nominee-owns-units-at-trump-branded-property-in-hawaii-2018-06-27
 2018-06-20,Michael D Cohen,Republican National Committee,association,resigns,https://www.politico.com/story/2018/06/20/michael-cohen-resigns-from-rnc-657334
@@ -170,7 +170,7 @@ NA,George Nader,Jared Kushner,association,NA,NA
 2005-01-01,Justin Kennedy,Donald J Trump,loan,1000000000,https://www.vanityfair.com/news/2018/06/donald-trump-justice-anthony-kennedy-retirement
 2017-01-31,US and UK Gov'ts,Deutsche Bank,fine,630000000,https://www.theguardian.com/business/2017/jan/31/deutsche-bank-fined-630m-over-russia-money-laundering-claims
 2017-01-21,Donald J Trump,The Supreme Court,association,appoints justices,http://constitutionus.com/
-2017-01-21,Abbott Laboratories,Trump Inaguration,payment,100000,https://www.spectrumnews.org/news/health-companies-gave-generously-president-trumps-inauguration/
+2017-01-21,Abbott Laboratories,Trump Inauguration,payment,100000,https://www.spectrumnews.org/news/health-companies-gave-generously-president-trumps-inauguration/
 2018-06-15,Abbott Laboratories,The White House,association,pressures breast feeding,https://www.theguardian.com/us-news/2018/jul/08/trump-administration-opposes-breastfeeding-resolution-report
 2018-06-15,World Health Organization,The White House,association,breastfeeding browbeaten by,https://www.theguardian.com/us-news/2018/jul/08/trump-administration-opposes-breastfeeding-resolution-report
 2018-06-15,Russia,World Health Organization,association,introduces good breast feeding,https://www.theguardian.com/us-news/2018/jul/08/trump-administration-opposes-breastfeeding-resolution-report
@@ -210,7 +210,7 @@ NA,George Nader,Jared Kushner,association,NA,NA
 2016-05-21,Alexander Torshin,NRA,association,attends,https://www.thedailybeast.com/kremlin-used-nra-to-help-trump-in-2016-says-senate-intelligence-committee
 2016-11-01,NRA,Donald J Trump,investment,30000000,https://www.thedailybeast.com/kremlin-used-nra-to-help-trump-in-2016-says-senate-intelligence-committee
 2015-01-01,Alexander Torshin,Russia,association,senator,https://en.wikipedia.org/wiki/Aleksandr_Torshin
-2017-02-01,Alexander Torshin,George O'Neill Jr,association,dining,https://abcnews.go.com/Politics/russia-bistro-bis-calif-congressman-dined-accused-russian/story?id=56839486&utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark
+2017-02-01,Alexander Torshin,George O'Neill Jr,association,dining,https://abcnews.go.com/Politics/russia-bistro-bis-calif-congressman-dined-accused-russian/story
 2017-02-01,Maria Butina,George O'Neill Jr,association,dining,http://time.com/4696424/moscow-right-kremlin-republicans/
 2017-02-01,Dana Rohrabacher,George O'Neill Jr,association,dining,http://time.com/4696424/moscow-right-kremlin-republicans/
 2017-02-01,Paul Erickson,George O'Neill Jr,association,dining,http://time.com/4696424/moscow-right-kremlin-republicans/
@@ -259,10 +259,10 @@ NA,Elliott Broidy,Steve Wynn,association,influence peddling,https://www.washingt
 2018-08-21,Federal Court,Paul Manafort,verdict,convicted,http://www.foxnews.com/politics/2018/08/21/jury-announces-guilty-verdict-on-some-charges-in-manafort-trial-cannot-decide-on-other-counts.html
 2016-06-01,Rick Gates,Paul Manafort,association,reports to,https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)
 2016-06-01,Rick Gates,Trump Organization,association,works for,https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)
-2018-02-23,Rick Gates,Federal Court,verdict,pleaded guilty,https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)
+2018-02-23,Rick Gates,Federal Court,verdict,pled guilty,https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)
 2018-08-09,Rick Gates,Paul Manafort,association,testifies against,https://en.wikipedia.org/wiki/Rick_Gates_(political_consultant)
-2017-12-01,Michael Flynn,Federal Court,verdict,pleaded guilty,https://en.wikipedia.org/wiki/Michael_Flynn#Plea_bargain_and_statement_of_offense
-2018-08-21,Michael D Cohen,Federal Court,verdict,pleaded guilty,http://thehill.com/regulation/administration/402906-cohen-pleads-guilty-to-federal-charges
+2017-12-01,Michael Flynn,Federal Court,verdict,pled guilty,https://en.wikipedia.org/wiki/Michael_Flynn#Plea_bargain_and_statement_of_offense
+2018-08-21,Michael D Cohen,Federal Court,verdict,pled guilty,http://thehill.com/regulation/administration/402906-cohen-pleads-guilty-to-federal-charges
 2016-10-01,Donald J Trump,Michael D Cohen,association,directed 130000 payment,https://www.cnn.com/2018/08/22/politics/michael-cohen-transcript-plea/index.html
 2016-06-01,Karen McDougal,Editor-1,association,offers to sell affair story,https://www.lawfareblog.com/document-michael-cohen-plea-agreement
 2016-06-01,Editor-1,National Enquirer,association,works for,https://www.washingtonpost.com/news/opinions/wp/2018/08/22/what-you-may-have-missed-in-the-cohen-plea/?utm_term=.756daf161c93
@@ -312,13 +312,13 @@ NA,Sam Patten,Konstantin Kilimnik,association,lobbying,http://thehill.com/policy
 NA,Konstantin Kilimnik,Sam Patten,association,lobbying,http://thehill.com/policy/national-security/404530-manafort-associate-charged-with-illegal-lobbying-report
 NA,Konstantin Kilimnik,Russia,association,is citizen of,http://thehill.com/policy/national-security/404530-manafort-associate-charged-with-illegal-lobbying-report
 NA,Sam Patten,Cambridge Analytica,association,employed by,https://www.bloomberg.com/news/articles/2018-08-31/manafort-associate-sam-patten-is-charged-with-fara-violation
-NA,Sam Patten,Federal Court,verdict,pleaded guilty,https://www.bloomberg.com/news/articles/2018-08-31/manafort-associate-sam-patten-is-charged-with-fara-violation
+NA,Sam Patten,Federal Court,verdict,pled guilty,https://www.bloomberg.com/news/articles/2018-08-31/manafort-associate-sam-patten-is-charged-with-fara-violation
 NA,Konstantin Kilimnik,Begemot Ventures International,association,principal,https://www.washingtonpost.com/local/public-safety/washington-consultant-for-ukraine-party-set-to-plead-guilty-to-violating-lobbyist-disclosure-law/2018/08/31/172cf2c8-ad23-11e8-a8d7-0f63ab8b1370_story.html?utm_term=.a4b412b5de41
 NA,Sam Patten,Begemot Ventures International,association,executive,https://www.washingtonpost.com/local/public-safety/washington-consultant-for-ukraine-party-set-to-plead-guilty-to-violating-lobbyist-disclosure-law/2018/08/31/172cf2c8-ad23-11e8-a8d7-0f63ab8b1370_story.html?utm_term=.a4b412b5de41
 NA,Begemot Ventures International,US Citizen,payment,50000,https://www.bloomberg.com/news/articles/2018-08-31/patten-caused-foreign-money-to-be-paid-to-inaugural-committee
-NA,US Citizen,Trump Inaguration,payment,50000,https://www.bloomberg.com/news/articles/2018-08-31/patten-caused-foreign-money-to-be-paid-to-inaugural-committee
-NA,Foreigner B,Trump Inaguration,association,attends with Patten,https://www.washingtonpost.com/local/public-safety/washington-consultant-for-ukraine-party-set-to-plead-guilty-to-violating-lobbyist-disclosure-law/2018/08/31/172cf2c8-ad23-11e8-a8d7-0f63ab8b1370_story.html?utm_term=.a4b412b5de41
-NA,Sam Patten,Trump Inaguration,association,attends with Foreigner B,https://www.washingtonpost.com/local/public-safety/washington-consultant-for-ukraine-party-set-to-plead-guilty-to-violating-lobbyist-disclosure-law/2018/08/31/172cf2c8-ad23-11e8-a8d7-0f63ab8b1370_story.html?utm_term=.a4b412b5de41
+NA,US Citizen,Trump Inauguration,payment,50000,https://www.bloomberg.com/news/articles/2018-08-31/patten-caused-foreign-money-to-be-paid-to-inaugural-committee
+NA,Serhiy Lovochkin,Trump Inauguration,association,attends with Patten,https://www.washingtonpost.com/local/public-safety/washington-consultant-for-ukraine-party-set-to-plead-guilty-to-violating-lobbyist-disclosure-law/2018/08/31/172cf2c8-ad23-11e8-a8d7-0f63ab8b1370_story.html?utm_term=.a4b412b5de41
+NA,Sam Patten,Trump Inauguration,association,attends with Foreigner B,https://www.washingtonpost.com/local/public-safety/washington-consultant-for-ukraine-party-set-to-plead-guilty-to-violating-lobbyist-disclosure-law/2018/08/31/172cf2c8-ad23-11e8-a8d7-0f63ab8b1370_story.html?utm_term=.a4b412b5de41
 2015-01-01,Cambridge Analytica,Steve Bannon,association,founded by,https://en.wikipedia.org/wiki/Cambridge_Analytica
 2015-01-01,Cambridge Analytica,Robert Mercer,association,founded by,https://en.wikipedia.org/wiki/Cambridge_Analytica
 2018-05-01,Cambridge Analytica,Data Propria,association,becomes,https://en.wikipedia.org/wiki/Cambridge_Analytica
@@ -329,7 +329,7 @@ NA,Sam Patten,Trump Inaguration,association,attends with Foreigner B,https://www
 NA,Jennifer Mercer,Robert Mercer,association,familial ties,https://en.wikipedia.org/wiki/Cambridge_Analytica
 NA,Rebekah Anne Mercer,Robert Mercer,association,familial ties,https://en.wikipedia.org/wiki/Cambridge_Analytica
 2016-03-01,George Papadopoulos,Donald J Trump,association,former adviser,https://en.wikipedia.org/wiki/George_Papadopoulos#Involvement_in_Donald_Trump's_presidential_campaign
-2017-10-30,George Papadopoulos,Federal Court,verdict,pleaded guilty,https://en.wikipedia.org/wiki/George_Papadopoulos#Involvement_in_Donald_Trump's_presidential_campaign
+2017-10-30,George Papadopoulos,Federal Court,verdict,pled guilty,https://en.wikipedia.org/wiki/George_Papadopoulos#Involvement_in_Donald_Trump's_presidential_campaign
 NA,George Papadopoulos,Ivan Timofeev,association,meeting,https://www.nbcnews.com/news/us-news/trump-campaign-adviser-george-papadopoulos-pleads-guilty-lying-n815596
 NA,Ivan Timofeev,Russian International Affairs Council,association,Programming Director,https://en.wikipedia.org/wiki/Russian_International_Affairs_Council
 2010-02-10,Russian International Affairs Council,Russia,association,advises,https://en.wikipedia.org/wiki/Russian_International_Affairs_Council
@@ -349,8 +349,8 @@ NA,Russian Direct Investment Fund,Vladimir Putin,association,founded by,https://
 NA,Russian Direct Investment Fund,United Arab Emirates,association,joint venture,https://www.aljazeera.com/news/2018/04/mueller-probe-kirill-dmitriev-ties-putin-uae-180404131133097.html
 NA,United Arab Emirates,Russian Direct Investment Fund,association,joint venture,https://www.aljazeera.com/news/2018/04/mueller-probe-kirill-dmitriev-ties-putin-uae-180404131133097.html
 2017-01-11,George Nader,Seychelles,association,meeting,https://www.washingtonpost.com/world/national-security/mueller-gathers-evidence-that-2016-seychelles-meeting-was-effort-to-establish-back-channel-to-kremlin/2018/03/07/b6a5fb8c-224b-11e8-94da-ebf9d112159c_story.html?utm_term=.5b4992d0504f
-2016-08-02,Jerome Corsi,Roger Stone,association,discussed Wikileaks,https://www.nbcnews.com/politics/justice-department/mueller-has-emails-stone-pal-corsi-about-wikileaks-dem-email-n940611
-NA,Roger Stone,House Intelligence Committee,association,testifies about Wikileaks,https://www.nytimes.com/2018/09/05/us/politics/jerome-corsi-subpoena-mueller-investigation.html
+2016-08-02,Jerome Corsi,Roger Stone,association,discussed WikiLeaks,https://www.nbcnews.com/politics/justice-department/mueller-has-emails-stone-pal-corsi-about-wikileaks-dem-email-n940611
+NA,Roger Stone,House Intelligence Committee,association,testifies about WikiLeaks,https://www.nytimes.com/2018/09/05/us/politics/jerome-corsi-subpoena-mueller-investigation.html
 NA,Jerome Corsi,Ted Malloch,association,edits book,https://www.nbcnews.com/politics/white-house/trump-ally-detained-served-mueller-subpoena-boston-airport-n861456
 NA,Ted Malloch,Roger Stone,association,meetings,https://abcnews.go.com/Politics/muellers-agents-asked-roger-stone-trump-supporter/story?id=55450667
 NA,Roger Stone,Donald J Trump,association,so loyal and so wonderful,"https://en.wikipedia.org/wiki/Roger_Stone#2010s:_Libertarian_Party_involvement,_Donald_Trump_campaign_and_media_commentary"
@@ -408,18 +408,18 @@ NA,Rob Goldstone,Emin Agalarov,association,represents,https://www.buzzfeednews.c
 2016-11-22,Emin Agalarov,Irakly Kaveladze,payment,107000,https://www.buzzfeednews.com/article/anthonycormier/trump-tower-meeting-suspicious-transactions-agalarov
 2018-09-14,Paul Manafort,Federal Court,verdict,pleads guilty to conspiracy,https://www.cnbc.com/2018/09/14/trump-campaign-chief-paul-manafort-pleads-guilty-to-conspiracy-charges.html
 2012-10-01,Paul Manafort,Media,association,bada bing bada boom,https://www.cnn.com/2018/09/14/politics/paul-manafort-plea/index.html
-2012-10-01,Paul Manafort,Iraeli Official,association,anti-semetic accusation,https://www.cnn.com/2018/09/14/politics/paul-manafort-plea/index.html
-2012-10-01,Iraeli Official,Paul Manafort,association,anti-semetic accusation,https://www.cnn.com/2018/09/14/politics/paul-manafort-plea/index.html
+2012-10-01,Paul Manafort,Israeli Official,association,anti-semetic accusation,https://www.cnn.com/2018/09/14/politics/paul-manafort-plea/index.html
+2012-10-01,Israeli Official,Paul Manafort,association,anti-semetic accusation,https://www.cnn.com/2018/09/14/politics/paul-manafort-plea/index.html
 2012-10-29,Media,Sr Obama Official,association,accused of anti semitism,https://www.breitbart.com/national-security/2012/10/29/clinton-ukraine-tymoshenko-anti-semitism/
-2012-10-01,Paul Manafort,Skadden Law Firm,association,solicited to write report,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
-2012-10-01,Skadden Law Firm,Greg Craig,association,employs,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
+2012-10-01,Paul Manafort,Skadden Arps,association,solicited to write report,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
+2012-10-01,Skadden Arps,Greg Craig,association,employs,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
 2012-10-01,Greg Craig,Yulia Tymoshenko,association,wrote critical report of,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
 NA,Yulia Tymoshenko,Ukraine,association,former PM,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
 NA,Viktor Yanukovych,Yulia Tymoshenko,association,bitter rivals,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
 NA,Yulia Tymoshenko,Viktor Yanukovych,association,bitter rivals,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
 2012-10-01,Greg Craig,Media,association,promotes report,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
-2012-10-01,Paul Manafort,Skadden Law Firm,payment,4600000,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
-2012-10-01,Paul Manafort,Skadden Law Firm,association,hidden payments,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
+2012-10-01,Paul Manafort,Skadden Arps,payment,4600000,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
+2012-10-01,Paul Manafort,Skadden Arps,association,hidden payments,https://www.cnn.com/2018/09/14/politics/greg-craig-foreign-agent-registration-investigation/index.html
 NA,Dmitry Firtash,Semion Mogilevich,association,front man for,https://talkingpointsmemo.com/news/why-a-powerful-russian-oligarch-was-furious-with-paul-manafort
 NA,Paul Manafort,Dmitry Firtash,association,pitched Bulgari Tower,https://talkingpointsmemo.com/news/why-a-powerful-russian-oligarch-was-furious-with-paul-manafort
 NA,Dmitry Firtash,RosUkrEnergo,association,president of,https://talkingpointsmemo.com/news/why-a-powerful-russian-oligarch-was-furious-with-paul-manafort
@@ -453,7 +453,7 @@ NA,Foreign Ministry,Russia,association,Inside of,https://www.theguardian.com/us-
 NA,German Khan,TNK-BP,association,ex-board,https://www.theguardian.com/us-news/2018/sep/28/russian-us-tycoon-boasted-of-active-involvement-in-trump-election-campaign-simon-kukes
 NA,Mikhail Fridman,TNK-BP,association,ex-board,https://www.theguardian.com/us-news/2018/sep/28/russian-us-tycoon-boasted-of-active-involvement-in-trump-election-campaign-simon-kukes
 NA,Len Blavatnik,TNK-BP,association,ex-board,https://www.theguardian.com/us-news/2018/sep/28/russian-us-tycoon-boasted-of-active-involvement-in-trump-election-campaign-simon-kukes
-NA,Len Blavatnik,Trump Inaguration,payment,1000000,https://www.theguardian.com/us-news/2018/sep/28/russian-us-tycoon-boasted-of-active-involvement-in-trump-election-campaign-simon-kukes
+NA,Len Blavatnik,Trump Inauguration,payment,1000000,https://www.theguardian.com/us-news/2018/sep/28/russian-us-tycoon-boasted-of-active-involvement-in-trump-election-campaign-simon-kukes
 NA,Len Blavatnik,Republican National Committee,payment,113600,https://www.theguardian.com/us-news/2018/sep/28/russian-us-tycoon-boasted-of-active-involvement-in-trump-election-campaign-simon-kukes
 NA,Justin Kennedy,LNR Property LLC,association,co-CEO,https://medium.com/@gaberusk/the-kennedy-kushner-and-trump-connection-a-curious-conversation-and-a-business-deal-c81dd578ce83
 NA,Tobin Cobb,LNR Property LLC,association,co-CEO,https://medium.com/@gaberusk/the-kennedy-kushner-and-trump-connection-a-curious-conversation-and-a-business-deal-c81dd578ce83
@@ -476,17 +476,17 @@ NA,Solntsevskaya Bratva,Russia,association,mafia,https://en.wikipedia.org/wiki/S
 2016-08-03,Joel Zamel,George Nader,association,meets with,https://www.nytimes.com/2018/05/19/us/politics/trump-jr-saudi-uae-nader-prince-zamel.html
 NA,Alex van der Zwaan,German Kahn,association,son-in-law,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
 NA,Alex van der Zwaan,Konstantin Kilimnik,association,emails,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
-2018-02-20,Alex van der Zwaan,Federal Court,verdict,pleaded guilty,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
+2018-02-20,Alex van der Zwaan,Federal Court,verdict,pled guilty,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
 NA,Alex van der Zwaan,Paul Manafort,association,worked for,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
 NA,Alex van der Zwaan,Rick Gates,association,worked for,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
 NA,Alex van der Zwaan,Yulia Tymoshenko,association,defended imprisonment of,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
-NA,Alex van der Zwaan,Skadden Law Firm,association,worked for,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
+NA,Alex van der Zwaan,Skadden Arps,association,worked for,https://en.wikipedia.org/wiki/Alex_van_der_Zwaan
 2016-12-01,Jared Kushner,Sergey Kislyak,association,proposed secure comms,https://www.businessinsider.com/jared-kushner-wanted-secret-talks-russia-trump-2017-5
 2016-12-01,Jared Kushner,Michael Flynn,association,meeting,https://www.businessinsider.com/jared-kushner-wanted-secret-talks-russia-trump-2017-5
 2016-12-01,Michael Flynn,Sergey Kislyak,association,meeting,https://www.businessinsider.com/jared-kushner-wanted-secret-talks-russia-trump-2017-5
 NA,Sergey Kislyak,Russia,association,amassador to US,https://www.businessinsider.com/jared-kushner-wanted-secret-talks-russia-trump-2017-5
-2016-12-27,Jared Kushner,Sergey Gorkov,association,meets with,https://www.businessinsider.com/jared-kushner-meeting-ceo-russia-bank-2017-3
-2016-12-27,Sergey Gorkov,Jared Kushner,association,meets with,https://www.businessinsider.com/jared-kushner-meeting-ceo-russia-bank-2017-3
+2016-12-13,Jared Kushner,Sergey Gorkov,association,meets with,https://www.businessinsider.com/jared-kushner-meeting-ceo-russia-bank-2017-3
+2016-12-13,Sergey Gorkov,Jared Kushner,association,meets with,https://www.businessinsider.com/jared-kushner-meeting-ceo-russia-bank-2017-3
 NA,Sergey Gorkov,Vnesheconombank,association,CEO,https://www.businessinsider.com/jared-kushner-meeting-ceo-russia-bank-2017-3
 2014-06-01,US Govt,Vnesheconombank,association,sanctions,https://www.businessinsider.com/jared-kushner-russia-vnesheconombank-ceo-putin-2017-3
 NA,Vladimir Putin,Vnesheconombank,association,Ex-Chairman,https://www.businessinsider.com/jared-kushner-russia-vnesheconombank-ceo-putin-2017-3
@@ -553,7 +553,7 @@ NA,Trump 2020,Donald J Trump,association,re-election vehicle,https://en.wikipedi
 2011-06-01,Giles-Parscale,Trump Organization,association,digital guru,https://en.wikipedia.org/wiki/Brad_Parscale#2016_Donald_Trump_presidential_campaign
 2016-10-30,Trump Organization,Giles-Parscale,payment,94000000,https://en.wikipedia.org/wiki/Brad_Parscale#2016_Donald_Trump_presidential_campaign
 NA,Giles-Parscale,Cambridge Analytica,association,hired for micro-targetting,https://en.wikipedia.org/wiki/Brad_Parscale#2016_Donald_Trump_presidential_campaign
-2016-10-04,Roger Stone,Steve Bannon,association,wikileaks emails,https://www.washingtonpost.com/politics/2018/11/01/roger-stones-story-just-changed-russia-again/?utm_term=.e727485254be
+2016-10-04,Roger Stone,Steve Bannon,association,WikiLeaks emails,https://www.washingtonpost.com/politics/2018/11/01/roger-stones-story-just-changed-russia-again/?utm_term=.e727485254be
 2016-10-13,Roger Stone,WikiLeaks,association,direct messages,https://www.theatlantic.com/politics/archive/2018/02/roger-stones-secret-messages-with-wikileaks/554432/
 2006-10-04,WikiLeaks,Julian Assange,association,created by,https://en.wikipedia.org/wiki/WikiLeaks
 2009-06-01,Israel,Binyamin Netanyahu,association,lead by,https://en.wikipedia.org/wiki/Benjamin_Netanyahu
@@ -577,10 +577,10 @@ NA,Ben Carson,Donald J Trump,association,reports to,NA
 2016-03-02,Ben Carson,Donald J Trump,association,voter manipulation plan,https://www.haaretz.com/us-news/.premium-trump-russia-mueller-probe-the-israel-connections-1.6116639
 NA,Inspiration,Ben Carson,association,voter manipulation plan,https://www.haaretz.com/us-news/.premium-trump-russia-mueller-probe-the-israel-connections-1.6116639
 NA,Inspiration,Israel,association,located in,https://www.haaretz.com/us-news/.premium-trump-russia-mueller-probe-the-israel-connections-1.6116639
-2016-12-01,VTB Bank,Qatari Investment Authority,loan,6700000000,https://www.reuters.com/article/us-rosneft-privatisation-exclusive/exclusive-russian-state-bank-secretly-financed-rosneft-sale-after-foreign-buyers-balked-idUSKCN1NE132
-2016-12-01,Qatari Investment Authority,Qatari Gov't,association,sovereign wealth fund,https://www.reuters.com/article/us-rosneft-privatisation-exclusive/exclusive-russian-state-bank-secretly-financed-rosneft-sale-after-foreign-buyers-balked-idUSKCN1NE132
+2016-12-01,VTB Bank,Qatar Investment Authority,loan,6700000000,https://www.reuters.com/article/us-rosneft-privatisation-exclusive/exclusive-russian-state-bank-secretly-financed-rosneft-sale-after-foreign-buyers-balked-idUSKCN1NE132
+2016-12-01,Qatar Investment Authority,Qatari Gov't,association,sovereign wealth fund,https://www.reuters.com/article/us-rosneft-privatisation-exclusive/exclusive-russian-state-bank-secretly-financed-rosneft-sale-after-foreign-buyers-balked-idUSKCN1NE132
 2016-12-01,Rosneft,Russia,association,state owned oil giant,https://www.reuters.com/article/us-rosneft-privatisation-exclusive/exclusive-russian-state-bank-secretly-financed-rosneft-sale-after-foreign-buyers-balked-idUSKCN1NE132
-2016-12-01,Rosneft,Qatari Investment Authority,association,19.5% stake,https://www.reuters.com/article/us-rosneft-privatisation-exclusive/exclusive-russian-state-bank-secretly-financed-rosneft-sale-after-foreign-buyers-balked-idUSKCN1NE132
+2016-12-01,Rosneft,Qatar Investment Authority,association,19.5% stake,https://www.reuters.com/article/us-rosneft-privatisation-exclusive/exclusive-russian-state-bank-secretly-financed-rosneft-sale-after-foreign-buyers-balked-idUSKCN1NE132
 2017-10-25,George Nader,Donald J Trump,association,photographed,https://www.businessinsider.com/george-nader-elliot-broidy-photo-with-trump-2018-5
 2017-10-25,Elliott Broidy,Donald J Trump,association,arranged Nader photograph,https://www.businessinsider.com/george-nader-elliot-broidy-photo-with-trump-2018-5
 2003-05-01,Czech Republic,George Nader,verdict,convicted of pedophilia,https://www.businessinsider.com/a-witness-cooperating-with-mueller-is-a-convicted-pedophile-2018-3
@@ -599,7 +599,7 @@ NA,Inspiration,Israel,association,located in,https://www.haaretz.com/us-news/.pr
 2016-03-01,Paul Manafort,Julian Assange,association,meeting in embassy,https://amp.theguardian.com/us-news/2018/nov/27/manafort-held-secret-talks-with-assange-in-ecuadorian-embassy
 2015-06-01,Paul Manafort,Julian Assange,association,meeting in embassy,https://amp.theguardian.com/us-news/2018/nov/27/manafort-held-secret-talks-with-assange-in-ecuadorian-embassy
 2013-01-01,Paul Manafort,Julian Assange,association,meeting in embassy,https://amp.theguardian.com/us-news/2018/nov/27/manafort-held-secret-talks-with-assange-in-ecuadorian-embassy
-2018-11-29,Michael D Cohen,Federal Court,verdict,pleaded guilty of lying to Congress,https://www.nytimes.com/2018/11/29/us/politics/fact-check-cohen-trump-.html
+2018-11-29,Michael D Cohen,Federal Court,verdict,pled guilty of lying to Congress,https://www.nytimes.com/2018/11/29/us/politics/fact-check-cohen-trump-.html
 2016-06-01,Michael D Cohen,Donald J Trump,association,informed of Trump Tower Moscow Progress,https://www.nytimes.com/2018/11/29/us/politics/fact-check-cohen-trump-.html
 2015-10-12,Felix Sater,VTB Bank,association,arranges Trump Tower Moscow Funding,https://www.vox.com/world/2018/11/29/18117910/michael-cohen-trump-tower-moscow-mueller
 2015-10-12,Felix Sater,Michael D Cohen,association,email re: Trump Tower fundng,https://www.vox.com/world/2018/11/29/18117910/michael-cohen-trump-tower-moscow-mueller
@@ -620,7 +620,7 @@ NA,Inspiration,Israel,association,located in,https://www.haaretz.com/us-news/.pr
 2018-12-12,AMI,Karen McDougal,association,payment to suppress story,https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison
 2016-08-05,AMI,Donald J Trump,association,coordinate to suppress story to not affect election,https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison
 2016-08-05,Donald J Trump,AMI,association,coordinate to suppress story to not affect election,https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison
-2018-12-10,Maria Butina,Federal Court,verdict,pleaded guilty of conspiring,https://www.nbcnews.com/politics/justice-department/alleged-russian-operative-maria-butina-plead-guilty-help-prosecutors-n946526
+2018-12-10,Maria Butina,Federal Court,verdict,pled guilty of conspiring,https://www.nbcnews.com/politics/justice-department/alleged-russian-operative-maria-butina-plead-guilty-help-prosecutors-n946526
 2018-12-10,Paul Erickson,Alexander Torshin,association,created comms channel between Russia and Trump Org via NRA,https://www.salon.com/2018/12/12/maria-butinas-boyfriend-claimed-he-set-up-trump-russia-nra-conduit-as-campaign-funds-flowed
 2018-12-10,Alexander Torshin,Paul Erickson,association,created comms channel between Russia and Trump Org via NRA,https://www.salon.com/2018/12/12/maria-butinas-boyfriend-claimed-he-set-up-trump-russia-nra-conduit-as-campaign-funds-flowed
 2018-12-10,NRA,Trump Organization,association,Russia comms channel,https://www.salon.com/2018/12/12/maria-butinas-boyfriend-claimed-he-set-up-trump-russia-nra-conduit-as-campaign-funds-flowed
@@ -629,9 +629,9 @@ NA,Inspiration,Israel,association,located in,https://www.haaretz.com/us-news/.pr
 2018-12-10,Russia,Trump Organization,association,Comms Channel through NRA,https://www.salon.com/2018/12/12/maria-butinas-boyfriend-claimed-he-set-up-trump-russia-nra-conduit-as-campaign-funds-flowed
 2018-12-10,Paul Erickson,NRA,association,created comms channel between Russia and Trump Org via NRA,https://www.salon.com/2018/12/12/maria-butinas-boyfriend-claimed-he-set-up-trump-russia-nra-conduit-as-campaign-funds-flowed
 2018-12-10,Alexander Torshin,Russia,association,created comms channel between Russia and Trump Org via NRA,https://www.salon.com/2018/12/12/maria-butinas-boyfriend-claimed-he-set-up-trump-russia-nra-conduit-as-campaign-funds-flowed
-2017-12-17,Trump Inaguration,Trump Organization,payment,800000,https://www.propublica.org/article/trump-inc-podcast-trumps-inauguration-paid-trumps-company-with-ivanka-in-the-middle
-2017-12-17,Trump Inaguration,Ivanka Trump,association,asks about auditability,https://www.propublica.org/article/trump-inc-podcast-trumps-inauguration-paid-trumps-company-with-ivanka-in-the-middle
-2017-12-17,Ivanka Trump,Trump Inaguration,association,approves payment,https://www.propublica.org/article/trump-inc-podcast-trumps-inauguration-paid-trumps-company-with-ivanka-in-the-middle
+2017-12-17,Trump Inauguration,Trump Organization,payment,800000,https://www.propublica.org/article/trump-inc-podcast-trumps-inauguration-paid-trumps-company-with-ivanka-in-the-middle
+2017-12-17,Trump Inauguration,Ivanka Trump,association,asks about auditability,https://www.propublica.org/article/trump-inc-podcast-trumps-inauguration-paid-trumps-company-with-ivanka-in-the-middle
+2017-12-17,Ivanka Trump,Trump Inauguration,association,approves payment,https://www.propublica.org/article/trump-inc-podcast-trumps-inauguration-paid-trumps-company-with-ivanka-in-the-middle
 NA,Len Blavatnik,Mitch McConnell,payment,3500000,https://www.dallasnews.com/opinion/commentary/2017/12/15/putins-proxies-helped-funnel-millions-gop-campaigns
 NA,Len Blavatnik,Marco Rubio,payment,1500000,https://www.dallasnews.com/opinion/commentary/2017/12/15/putins-proxies-helped-funnel-millions-gop-campaigns
 NA,Len Blavatnik,Lindsey Graham,payment,800000,https://www.dallasnews.com/opinion/commentary/2017/12/15/putins-proxies-helped-funnel-millions-gop-campaigns
@@ -655,7 +655,7 @@ NA,Executive Branch,US Govt,association,part of,http://constitutionus.com/
 2017-11-15,Mohammed bin Salman,Mohammed bin Zayed al-Nahyan,association,overbid for Salvator Mundi,https://narativ.org/2019/01/02/salvator-mundi-art-of-the-deal-the-lost-davinci/
 2018-11-09,Dmitry Rybolovlev,Yury Trutnev,association,manages affairs,http://www.spiegel.de/international/world/as-monaco-dmitry-rybolovlev-and-his-influence-in-monaco-a-1238822.html
 NA,Yury Trutnev,Russia,association,Natural Resources Minister,http://www.spiegel.de/international/world/as-monaco-dmitry-rybolovlev-and-his-influence-in-monaco-a-1238822.html
-2016-06-01,Paul Manafort,Konstantin Kilimnik,association,shares polling data,https://www.washingtonpost.com/local/legal-issues/paul-manafort-shared-2016-polling-data-with-russian-employee-according-to-court-filing/2019/01/08/3f562ad8-12b0-11e9-803c-4ef28312c8b9_story.html
+2016-08-02,Paul Manafort,Konstantin Kilimnik,association,shares polling data,https://www.washingtonpost.com/local/legal-issues/paul-manafort-shared-2016-polling-data-with-russian-employee-according-to-court-filing/2019/01/08/3f562ad8-12b0-11e9-803c-4ef28312c8b9_story.html
 NA,Ron DeSantis,Florida,association,Governor,NA
 NA,Susan Wiles,Lanny Wiles,association,married,NA
 NA,Lanny Wiles,Susan Wiles,association,married,NA
@@ -669,11 +669,236 @@ NA,Trump Organization,Trump Tower,association,HQ'ed in,https://en.wikipedia.org/
 2016-10-31,Tony Fabrizio,Donald J Trump,association,pay dispute,https://www.washingtonpost.com/news/post-politics/wp/2016/10/31/donald-trump-is-refusing-to-pay-his-campaign-pollster-nearly-three-quarters-of-a-million-dollars
 2016-01-01,Tony Fabrizio,Rand Paul,association,Head Pollster,https://en.m.wikipedia.org/wiki/Tony_Fabrizio
 2017-07-07,Donald J Trump,Vladimir Putin,association,Hamburg private convo,https://www.washingtonpost.com/world/national-security/trump-has-concealed-details-of-his-face-to-face-encounters-with-putin-from-senior-officials-in-administration/2019/01/12/65f6686c-1434-11e9-b6ad-9cfd62dbb0a8_story.html
-2018-07-16,Donald J Trump,Vladimir Putin,association,Helsinki private convo,https://www.washingtonpost.com/world/national-security/trump-has-concealed-details-of-his-face-to-face-encounters-with-putin-from-senior-officials-in-administration/2019/01/12/65f6686c-1434-11e9-b6ad-9cfd62dbb0a8_story.html?ICID=ref_fark&noredirect=on&utm_content=link&utm_medium=website&utm_source=fark&utm_term=.08d67c7f80c4
+2018-07-16,Donald J Trump,Vladimir Putin,association,Helsinki private convo,https://www.washingtonpost.com/world/national-security/trump-has-concealed-details-of-his-face-to-face-encounters-with-putin-from-senior-officials-in-administration/2019/01/12/65f6686c-1434-11e9-b6ad-9cfd62dbb0a8_story.html
 2017-07-07,Vladimir Putin,Donald J Trump,association,Hamburg private convo,https://www.washingtonpost.com/world/national-security/trump-has-concealed-details-of-his-face-to-face-encounters-with-putin-from-senior-officials-in-administration/2019/01/12/65f6686c-1434-11e9-b6ad-9cfd62dbb0a8_story.html
-2018-07-16,Vladimir Putin,Donald J Trump,association,Helsinki private convo,https://www.washingtonpost.com/world/national-security/trump-has-concealed-details-of-his-face-to-face-encounters-with-putin-from-senior-officials-in-administration/2019/01/12/65f6686c-1434-11e9-b6ad-9cfd62dbb0a8_story.html?ICID=ref_fark&noredirect=on&utm_content=link&utm_medium=website&utm_source=fark&utm_term=.08d67c7f80c4
+2018-07-16,Vladimir Putin,Donald J Trump,association,Helsinki private convo,https://www.washingtonpost.com/world/national-security/trump-has-concealed-details-of-his-face-to-face-encounters-with-putin-from-senior-officials-in-administration/2019/01/12/65f6686c-1434-11e9-b6ad-9cfd62dbb0a8_story.html
 2016-01-01,Russia,Alexander Torshin,association,approves NRA recruitment,https://www.thedailybeast.com/kremlin-blessed-russias-nra-operation-us-intel-report-says
 2016-01-01,Russia,NRA,association,desires to establish contacts,https://www.thedailybeast.com/kremlin-blessed-russias-nra-operation-us-intel-report-says
 2016-01-01,Russia,Maria Butina,association,approves NRA recruitment,https://www.thedailybeast.com/kremlin-blessed-russias-nra-operation-us-intel-report-says
 2018-08-01,Andrew Stettner,Jerome Corsi,association,wiped computers,https://abcnews.go.com/beta-story-container/Politics/mueller-plows-ahead-issuing-subpoenas-associates-conservative-commentator/story
 NA,Andrew Stettner,Jerome Corsi,association,step-son,https://abcnews.go.com/beta-story-container/Politics/mueller-plows-ahead-issuing-subpoenas-associates-conservative-commentator/story?id=60391636
+2019-01-17,Donald J Trump,Vladimir Putin,association,being blackmailed by,https://www.salon.com/2019/01/17/former-bush-official-richard-painter-substantial-chance-trump-is-being-blackmailed-by-putin/
+2016-11-10,Donald J Trump,Michael D Cohen,association,suborned perjury about Trump Tower Russia,https://www.buzzfeednews.com/article/jasonleopold/trump-russia-cohen-moscow-tower-mueller-investigation?ref=hpsplash
+2017-01-01,Deutsche Bank,Donald J Trump,loan,130000000,https://www.reuters.com/article/us-usa-trump-deutsche-bank/trump-deutsche-bank-links-in-sights-of-u-s-house-investigators-idUSKCN1PC123
+2017-01-01,Deutsche Bank,Russia,association,laundered 10B$ Russian money,https://www.bloomberg.com/news/articles/2018-08-03/deutsche-bank-says-money-laundering-controls-still-too-complex
+NA,Robert Foresman,UBS,association,Russia Investment Fund,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Robert Foresman,Mark Burnett,association,Trump Inauguration Meetings,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Mark Burnett,The Apprentice,association,Exec Producer,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Donald J Trump,The Apprentice,association,star talent,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+2016-12-15,Robert Foresman,Sergey Gorkov,association,Meeting,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Matthias Warnig,Robert Foresman,association,business arrangement,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Robert Foresman,Matthias Warnig,association,business arrangement,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Matthias Warnig,Vladimir Putin,association,paid for Putin wife medical care,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Robert Foresman,Igor Sechin,association,business arrangement,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Igor Sechin,Vladimir Putin,association,inner circle,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Matthias Warnig,Vladimir Putin,association,inner circle,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Igor Sechin,Rosneft,association,chairman,https://abcnews.go.com/beta-story-container/Politics/us-banker-ties-putins-circle-sought-access-trump/story?id=60521702
+NA,Ilya Bykov,Aras Agalarov,association,"reports to, tax guy",https://www.theguardian.com/us-news/2018/oct/18/russian-billionaire-aras-agalarov-company-trump-tower-meeting
+2015-12-15,Ilya Bykov,Andrey Rozov,association,represents 22 West 38th Street,https://medium.com/@ScottMStedman/ic-expert-ceo-andrey-rozov-behind-mysterious-purchase-of-ny-building-tied-to-felix-sater-and-aras-718dcbeb1032
+2015-12-15,Felix Sater,Andrey Rozov,association,represents 22 West 38th Street,https://medium.com/@ScottMStedman/ic-expert-ceo-andrey-rozov-behind-mysterious-purchase-of-ny-building-tied-to-felix-sater-and-aras-718dcbeb1032
+2015-12-15,Dalan Properties LLC,Andrey Rozov,payment,8000000,https://medium.com/@ScottMStedman/ic-expert-ceo-andrey-rozov-behind-mysterious-purchase-of-ny-building-tied-to-felix-sater-and-aras-718dcbeb1032
+2016-05-01,IC Expert,Donald Trump Jr,association,negotiation to build Trump Tower Moscow,https://www.theguardian.com/us-news/2018/oct/18/russian-billionaire-aras-agalarov-company-trump-tower-meeting
+NA,Andrey Rozov,IC Expert,association,CEO,https://medium.com/@ScottMStedman/ic-expert-ceo-andrey-rozov-behind-mysterious-purchase-of-ny-building-tied-to-felix-sater-and-aras-718dcbeb1032
+2015-10-28,Andrey Rozov,Donald J Trump,association,"sign letter of intent, Trump Tower Moscow",http://cdn.cnn.com/cnn/2018/images/12/18/attachment.1.pdf
+2015-10-28,Donald J Trump,Andrey Rozov,association,"sign letter of intent, Trump Tower Moscow",http://cdn.cnn.com/cnn/2018/images/12/18/attachment.1.pdf
+2019-01-25,Federal Court,Roger Stone,indictment,7 counts,https://www.cnn.com/2019/01/25/politics/read-roger-stone-indictment-fbi/index.html
+2018-06-08,Federal Court,Konstantin Kilimnik,indictment,conspiracy to obstruct,http://time.com/5306563/robert-mueller-indicts-konstantin-kilimnik-and-hits-paul-manafort-with-another-charge/
+2018-07-13,Federal Court,12 Russian GRU agents,indictment,conspiracy against United States,https://www.justice.gov/file/1080281/download
+2018-02-16,Federal Court,Internet Research Agency,indictment,conspiracy to defraud,https://www.justice.gov/file/1035477/download
+2018-02-16,Federal Court,13 Russians,indictment,conspiracy to defraud,https://www.justice.gov/file/1035477/download
+2018-07-13,12 Russian GRU agents,Russia,association,Intelligence Agents,https://www.justice.gov/file/1080281/download
+2018-02-16,13 Russians,Russia,association,troll farmers,https://www.justice.gov/file/1035477/download
+2018-02-16,Internet Research Agency,Yevgeny Prigozhin,association,controlled by,https://www.justice.gov/file/1035477/download
+2018-02-16,Yevgeny Prigozhin,Vladimir Putin,association,wealthy associate of,https://en.wikipedia.org/wiki/Internet_Research_Agency
+2018-02-16,Federal Court,Yevgeny Prigozhin,indictment,conspiracy to defraud,https://www.justice.gov/file/1035477/download
+2018-11-30,Donald J Trump,Vladimir Putin,association,secret G20 mtg,https://www.vox.com/2019/1/29/18202515/trump-putin-russia-g20-ft-note
+2018-11-30,Vladimir Putin,Donald J Trump,association,secret G20 mtg,https://www.vox.com/2019/1/29/18202515/trump-putin-russia-g20-ft-note
+2015-06-01,Wikistrat,Joel Zamel,association,founded by,https://www.thedailybeast.com/mueller-witness-team-gamed-out-russian-meddling-in-2015
+2015-06-01,Wikistrat,Psy-Group,association,likely coordinated with,https://www.thedailybeast.com/mueller-witness-team-gamed-out-russian-meddling-in-2015
+2015-12-01,David Keene,NRA,association,president,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Pete Brownell,NRA,association,president,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Joe Gregory,NRA,association,NRA fundraiser,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Dr. Arnold Goldschlager,NRA,association,NRA benefactor,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Hilary Goldschlager,NRA,association,NRA benefactor,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Hilary Goldschlager,Dr. Arnold Goldschlager,association,father of,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,David Clarke,NRA,association,prominent advocate,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,David Clarke,Trump Organization,association,surrogate,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,David Keene,association,arranges travel to Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,Pete Brownell,association,arranges travel to Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,Joe Gregory,association,arranges travel to Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,Dr. Arnold Goldschlager,association,arranges travel to Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,Hilary Goldschlager,association,arranges travel to Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,David Clarke,association,arranges travel to Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,David Keene,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,Pete Brownell,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,Joe Gregory,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,Dr. Arnold Goldschlager,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,Hilary Goldschlager,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Alexander Torshin,David Clarke,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Alexander Torshin,David Keene,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Alexander Torshin,Pete Brownell,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Alexander Torshin,Joe Gregory,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Alexander Torshin,Dr. Arnold Goldschlager,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Alexander Torshin,Hilary Goldschlager,association,meets in Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+2015-12-01,Maria Butina,David Clarke,association,arranges travel to Russia,https://abcnews.go.com/Politics/nra-2015-moscow-trip-wasnt-official-emails-photos/story?id=60715741
+NA,Qatar Investment Authority,Brookfield Asset Management,investment,major shareholder,https://www.vanityfair.com/news/2018/05/kushner-cos-brookfield-qatar
+2018-08-06,Brookfield Asset Management,Jared Kushner,payment,> 1 Billion USD,https://ny.curbed.com/2018/8/6/17654692/kushner-companies-brookfield-666-fifth-avenue-deal
+2018-08-06,Jared Kushner,Brookfield Asset Management,association,Sells 666 Fifth,https://www.vanityfair.com/news/2018/05/kushner-cos-brookfield-qatar
+2018-04-15,Jared Kushner,Qatari Gov't,association,Pushes to release blockade of,https://www.snopes.com/fact-check/trump-kushner-qatar/
+2018-02-16,Federal Court,Concord Management and Consulting,indictment,conspiracy to defraud,https://en.wikipedia.org/wiki/Concord_Management_and_Consulting
+2014-01-01,Concord Management and Consulting,Internet Research Agency,association,alleged to financially support,https://en.wikipedia.org/wiki/Concord_Management_and_Consulting
+2014-01-01,Concord Management and Consulting,Yevgeny Prigozhin,association,controlled by,https://en.wikipedia.org/wiki/Concord_Management_and_Consulting
+2018-09-15,Federal Court,Elena Alekseevna Khusyaynova,indictment,conspiracy to defaud US,https://edition.cnn.com/2018/10/19/politics/elena-alekseevna-khusyaynova-russia-charged/index.html
+2016-12-01,Elena Alekseevna Khusyaynova,Internet Research Agency,association,managed finances for,https://edition.cnn.com/2018/10/19/politics/elena-alekseevna-khusyaynova-russia-charged/index.html
+2016-12-01,Elena Alekseevna Khusyaynova,Concord Management and Consulting,association,financy management,https://edition.cnn.com/2018/10/19/politics/elena-alekseevna-khusyaynova-russia-charged/index.html
+2019-01-24,Roger Stone,12 Russian GRU agents,association,related case,https://hillreporter.com/4-new-sealed-dockets-filed-in-d-c-court-could-indicate-impending-indictments-in-mueller-case-23089
+2017-02-13,US Treasury Department,Steven Mnuchin,association,Lead by,https://en.m.wikipedia.org/wiki/Steven_Mnuchin
+2017-02-13,Steven Mnuchin,Donald J Trump,association,Reports to,https://en.m.wikipedia.org/wiki/Steven_Mnuchin
+2013-09-01,Steven Mnuchin,RatPac-Dune Entertainment,association,Financial stake,https://en.m.wikipedia.org/wiki/RatPac-Dune_Entertainment#RatPac-Dune_Entertainment
+2017-04-01,Len Blavatnik,RatPac-Dune Entertainment,association,Financial stake,https://deadline.com/2017/04/len-blavatnik-ratpac-entertainment-stake-brett-ratner-1202071393/
+2017-07-01,Len Blavatnik,Steven Mnuchin,payment,25000000,https://www.hollywoodreporter.com/news/hollywood-film-financiers-a-torrid-love-affair-hits-a-rocky-road-1023140
+2017-07-01,Steven Mnuchin,Len Blavatnik,payment,RatPac-Dune Shares,https://www.hollywoodreporter.com/news/hollywood-film-financiers-a-torrid-love-affair-hits-a-rocky-road-1023140
+2019-01-27,US Treasury Department,Rusal,association,Lifts sanctions,https://www.cnn.com/2019/01/27/politics/trump-admin-lifts-sanctions-oleg-deripaska/index.html
+2019-01-08,Federal Court,Natalia Veselnitskaya,indictment,Money Laundering,https://www.bna.com/russian-five-five-b57982095809/
+2016-11-09,Tom Barrack,Trump Inauguration,association,head of,https://abcnews.go.com/Politics/york-prosecutors-seek-records-trump-inauguration-committee-sources/story
+2016-11-09,Rick Gates,Tom Barrack,association,reports to (inauguration cmte),https://en.wikipedia.org/wiki/Thomas_J._Barrack_Jr.#Political_activity
+2010-06-01,Tom Barrack,Jared Kushner,loan,70000000,https://en.wikipedia.org/wiki/Thomas_J._Barrack_Jr.#Political_activity
+2010-06-01,Jared Kushner,Tom Barrack,payment,debt in 666,https://www.nytimes.com/2018/06/13/world/middleeast/trump-tom-barrack-saudi.html
+2010-06-01,Tom Barrack,Donald J Trump,association,friends,https://www.nytimes.com/2018/06/13/world/middleeast/trump-tom-barrack-saudi.html
+1985-06-01,Robert Lighthizer,Skadden Arps,association,joins,https://en.wikipedia.org/wiki/Robert_Lighthizer
+2017-05-15,Robert Lighthizer,Donald J Trump,association,reports to,https://en.wikipedia.org/wiki/Robert_Lighthizer
+2017-05-15,Robert Lighthizer,US Trade Rep,association,cabinet level,https://en.wikipedia.org/wiki/Robert_Lighthizer
+2016-11-09,Steve Wynn,Trump Inauguration,association,vice chair,https://en.wikipedia.org/wiki/Steve_Wynn#Political_activities
+2017-01-18,Devin Nunes,Michael Flynn,association,Inaugural breakfast,https://www.thedailybeast.com/mueller-probes-an-event-with-nunes-flynn-and-foreign-officials-at-trumps-dc-hotel
+2017-01-18,Imaad Zuberi,Trump Inauguration,association,Source of guests,https://www.thedailybeast.com/feds-eye-imaad-zuberi-financier-with-alleged-ties-to-cohen-nunes-and-qatar
+2017-01-21,Sheldon G Adelson,Trump Inauguration,payment,5000000,https://www.opensecrets.org/trump/inauguration-donors
+2017-01-21,Imaad Zuberi,Trump Inauguration,payment,900000,https://www.opensecrets.org/trump/inauguration-donors
+2017-01-21,Robert Mercer,Trump Inauguration,payment,1000000,https://www.opensecrets.org/trump/inauguration-donors
+2017-01-01,Imaad Zuberi,Michael D Cohen,association,pitched for access,https://www.thedailybeast.com/feds-eye-imaad-zuberi-financier-with-alleged-ties-to-cohen-nunes-and-qatar
+2016-12-13,Imaad Zuberi,Qatari Gov't,association,meets at Plaza Hotel,https://www.washingtonpost.com/politics/federal-prosecutors-issue-sweeping-subpoena-for-documents-from-trump-inaugural-committee-a-sign-of-a-deepening-criminal-probe/2019/02/04/b6382642-28e5-11e9-8eef-0d74f4bf0295_story.html?utm_term=.575ca5405aed
+2016-12-12,Imaad Zuberi,Michael Flynn,association,meets at Trump Tower,https://www.washingtonpost.com/politics/federal-prosecutors-issue-sweeping-subpoena-for-documents-from-trump-inaugural-committee-a-sign-of-a-deepening-criminal-probe/2019/02/04/b6382642-28e5-11e9-8eef-0d74f4bf0295_story.html?utm_term=.575ca5405aed
+2016-12-12,Imaad Zuberi,Ahmed al Rumaihi,association,meets at Trump Tower,https://www.washingtonpost.com/politics/federal-prosecutors-issue-sweeping-subpoena-for-documents-from-trump-inaugural-committee-a-sign-of-a-deepening-criminal-probe/2019/02/04/b6382642-28e5-11e9-8eef-0d74f4bf0295_story.html?utm_term=.575ca5405aed
+NA,Wynn Resorts,Steve Wynn,association,run by,https://en.wikipedia.org/wiki/Wynn_Resorts
+2017-01-21,Wynn Resorts,Trump Inauguration,payment,729217,https://www.opensecrets.org/trump/inauguration-donors
+2013-06-01,Keith Schiller,Donald J Trump,association,Bodyguard during Moscow Visit,https://www.cnbc.com/2019/02/08/firm-owned-by-trumps-longtime-bodyguard-has-received-225000-from-rnc.html
+2019-02-09,Republican National Committee,Keith Schiller,payment,225000,https://www.cnbc.com/2019/02/08/firm-owned-by-trumps-longtime-bodyguard-has-received-225000-from-rnc.html
+2019-02-19,Keith Schiller,Republican National Committee,association,Security Consulting,https://www.cnbc.com/2019/02/08/firm-owned-by-trumps-longtime-bodyguard-has-received-225000-from-rnc.html
+2017-08-30,Keith Schiller,Donald J Trump,association,Quits as Director of Oval Office,https://www.cnbc.com/2019/02/08/firm-owned-by-trumps-longtime-bodyguard-has-received-225000-from-rnc.html
+2017-01-21,Keith Schiller,Donald J Trump,association,Hired as Director of Oval Office,https://www.cnbc.com/2019/02/08/firm-owned-by-trumps-longtime-bodyguard-has-received-225000-from-rnc.html
+2017-08-15,Woodlawn LLC,Paul Manafort,loan,1000000,https://thehill.com/policy/national-security/429189-mueller-looking-into-1-million-loan-made-to-paul-manafort-after-fbi
+2017-08-15,Joey Rappa,Woodlawn LLC,association,Managing member,https://thehill.com/policy/national-security/429189-mueller-looking-into-1-million-loan-made-to-paul-manafort-after-fbi
+2017-06-01,Joshua Harris,The White House,association,advisor,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2017-06-01,Joshua Harris,Apollo Group,association,co-founder,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2017-06-01,Joshua Harris,Jared Kusher,association,Infrastructure meetings,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2017-06-01,Jared Kushner,Joshua Harris,association,Infrastructure meetings,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2017-11-01,Apollo Group,Jared Kushner,loan,184000000,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2017-04-01,Michael Corbat,Jared Kushner,association,Finance and trade meetings,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2017-04-01,Jared Kushner,Michael Corbat,association,Finance and trade meetings,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2017-04-01,Michael Corbat,Citigroup,association,CEO,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2017-03-15,Citigroup,Jared Kushner,loan,325000000,https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html?module=inline
+2016-08-02,Konstantin Kilimnik,Paul Manafort,association,Grand Havana Room Meeting,https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html
+2016-08-02,Konstantin Kilimnik,Rick Gates,association,Grand Havana Room Meeting,https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html
+2016-08-02,Rick Gates,Konstantin Kilimnik,association,Grand Havana Room Meeting,https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html
+2016-08-02,Paul Manafort,Konstantin Kilimnik,association,Grand Havana Room Meeting,https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html
+2016-08-02,Paul Manafort,Rick Gates,association,Grand Havana Room Meeting,https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html
+2016-08-02,Rick Gates,Paul Manafort,association,Grand Havana Room Meeting,https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html
+2016-08-09,Oleg Deripaska,Yevgeny Prigozhin,association,Meeting,https://www.gettyimages.com/detail/news-photo/rusal-president-oleg-deripaska-and-concord-catering-general-news-photo/587757080
+2016-08-09,Yevgeny Prigozhin,Oleg Deripaska,association,Meeting,https://www.gettyimages.com/detail/news-photo/rusal-president-oleg-deripaska-and-concord-catering-general-news-photo/587757080
+NA,12 Russian GRU agents,Guccifer 2.0,association,Use alias,https://assets.documentcloud.org/documents/5740797/2-15-19-US-Stone-Related-Case.pdf
+NA,Guccifer 2.0,DNC,association,Stole emails,https://assets.documentcloud.org/documents/5740797/2-15-19-US-Stone-Related-Case.pdf
+NA,12 Russian GRU agents,WikiLeaks,association,Provides stolen emails,https://assets.documentcloud.org/documents/5740797/2-15-19-US-Stone-Related-Case.pdf
+NA,Roger Stone,Guccifer 2.0,association,Discusses use of stolen emails,https://assets.documentcloud.org/documents/5740797/2-15-19-US-Stone-Related-Case.pdf
+NA,Roger Stone,WikiLeaks,association,Discusses use of stolen emails,https://assets.documentcloud.org/documents/5740797/2-15-19-US-Stone-Related-Case.pdf
+2018-01-29,Julian Assange,Sean Hannity Impersonator,association,Comms re: DNC Hack,https://www.thedailybeast.com/julian-assange-thought-he-was-messaging-sean-hannity-when-he-offered-news-on-democrat-investigating-trump-russia
+2018-01-29,Sean Hannity Impersonator,Sean Hannity,association,Impersonated,https://www.thedailybeast.com/julian-assange-thought-he-was-messaging-sean-hannity-when-he-offered-news-on-democrat-investigating-trump-russia
+NA,Sean Hannity,Fox News,association,Anchors for,https://en.m.wikipedia.org/wiki/Sean_Hannity
+NA,Sean Hannity,Michael D Cohen,association,Retains as lawyer,https://en.m.wikipedia.org/wiki/Sean_Hannity
+NA,Brittany Kaiser,Cambridge Analytica,association,Former Director,https://www.theguardian.com/uk-news/2019/feb/17/brittany-kaiser-trump-russia-robert-mueller-cambridge-analytica
+NA,Brittany Kaiser,WikiLeaks,payment,Undisclosed bitcoin,https://www.theguardian.com/uk-news/2019/feb/17/brittany-kaiser-trump-russia-robert-mueller-cambridge-analytica
+NA,Brittany Kaiser,Julian Assange,association,Meeting,https://www.theguardian.com/uk-news/2019/feb/17/brittany-kaiser-trump-russia-robert-mueller-cambridge-analytica
+NA,Julian Assange,Brittany Kaiser,association,Meeting,https://www.theguardian.com/uk-news/2019/feb/17/brittany-kaiser-trump-russia-robert-mueller-cambridge-analytica
+2015-06-01,Brittany Kaiser,Sam Patten,association,Collaborate Nigeria,https://www.thedailybeast.com/accused-russian-intel-asset-teamed-up-with-gop-operative-3
+2015-06-01,Sam Patten,Brittany Kaiser,association,Collaborate Nigeria,https://www.thedailybeast.com/accused-russian-intel-asset-teamed-up-with-gop-operative-3
+2017-01-28,Saudi Arabia,Westinghouse Electric,association,Seeks to buy nuclear plants,https://www.washingtonpost.com/politics/top-trump-appointees-promoted-selling-nuclear-power-plants-to-saudi-arabia-over-objections-from-national-security-officials-house-democratic-report-says/2019/02/19/6a719762-3456-11e9-af5b-b51b7ff322e9_story.html?utm_term=.2ec1ee12eaab
+NA,Westinghouse Electric,Brookfield Asset Management,association,Owned by,https://www.washingtonpost.com/politics/top-trump-appointees-promoted-selling-nuclear-power-plants-to-saudi-arabia-over-objections-from-national-security-officials-house-democratic-report-says/2019/02/19/6a719762-3456-11e9-af5b-b51b7ff322e9_story.html?utm_term=.2ec1ee12eaab
+2017-01-28,Michael Flynn,Saudi Arabia,association,Lobbies for nuclear sale,https://www.washingtonpost.com/politics/top-trump-appointees-promoted-selling-nuclear-power-plants-to-saudi-arabia-over-objections-from-national-security-officials-house-democratic-report-says/2019/02/19/6a719762-3456-11e9-af5b-b51b7ff322e9_story.html?utm_term=.2ec1ee12eaab
+2017-01-28,Tom Barrack,Saudi Arabia,association,Lobbies for nuclear sale,https://www.washingtonpost.com/politics/top-trump-appointees-promoted-selling-nuclear-power-plants-to-saudi-arabia-over-objections-from-national-security-officials-house-democratic-report-says/2019/02/19/6a719762-3456-11e9-af5b-b51b7ff322e9_story.html?utm_term=.2ec1ee12eaab
+2015-08-01,Roger Ailes,Donald J Trump,association,Pre-debate tip-off,https://www.newyorker.com/magazine/2019/03/11/the-making-of-the-fox-news-white-house
+NA,Roger Ailes,Fox News,association,Ex-CEO,https://en.m.wikipedia.org/wiki/Roger_Ailes
+2017-02-03,Alan Garten,Trump Organization,association,Chief Legal Officer,https://en.m.wikipedia.org/wiki/Harold_Bornstein
+2017-02-03,Alan Garten,Harold Bornstein,association,raids medical office,https://en.m.wikipedia.org/wiki/Harold_Bornstein
+2017-02-03,Harold Bornstein,Donald J Trump,association,Personal doctor,https://en.m.wikipedia.org/wiki/Harold_Bornstein
+NA,Alexander Nix,Cambridge Analytica,association,Ex-CEO,https://en.m.wikipedia.org/wiki/Alexander_Nix
+NA,Alexander Nix,SCL Group,association,Ex-Director,https://en.m.wikipedia.org/wiki/Alexander_Nix
+NA,Cambridge Analytica,Alexander Nix,association,Fires for honeytraps,https://en.m.wikipedia.org/wiki/Alexander_Nix
+NA,Allen Weisselberg,Trump Organization,association,CFO,https://en.m.wikipedia.org/wiki/Allen_Weisselberg
+NA,Allen Weisselberg,Michael D Cohen,association,Arranged 35K Payments,https://en.m.wikipedia.org/wiki/Allen_Weisselberg
+NA,Allen Weisselberg,Donald Trump Jr,association,Co-Trustee,https://en.m.wikipedia.org/wiki/Allen_Weisselberg
+NA,Donald Trump Jr,Allen Weisselberg,association,Co-Trustee,https://en.m.wikipedia.org/wiki/Allen_Weisselberg
+NA,Allen Weisselberg,Trump Organization,association,Trustee,https://en.m.wikipedia.org/wiki/Allen_Weisselberg
+NA,Donald Trump Jr,Trump Organization,association,Trustee,https://en.m.wikipedia.org/wiki/Allen_Weisselberg
+2016-06-09,Anatoli Samochornov,Trump Tower,association,meeting - interpreter,https://www.thedailybeast.com/man-who-joined-russians-in-trump-meeting-just-an-interpreter-says-mother-in-law
+NA,Anatoli Samochornov,Natalia Veselnitskaya,association,Interpreter,https://www.thedailybeast.com/man-who-joined-russians-in-trump-meeting-just-an-interpreter-says-mother-in-law
+NA,Annie Donaldson,Don McGahn,association,Chief of Staff,https://heavy.com/news/2017/11/annie-ann-donaldson-brett-talley-wife/
+NA,Don McGahn,Donald J Trump,association,Whitehouse Counsel,https://en.m.wikipedia.org/wiki/Don_McGahn
+2014-01-01,Don McGahn,Jones Day Law Firm,association,Joins,https://en.m.wikipedia.org/wiki/Don_McGahn
+NA,Jones Day Law Firm,Alfa Bank,association,Represented,https://en.m.wikipedia.org/wiki/Don_McGahn
+NA,Jones Day Law Firm,Oleg Deripaska,association,Represented,https://en.m.wikipedia.org/wiki/Don_McGahn
+NA,Jones Day Law Firm,Viktor Vekselberg,association,Represented,https://en.m.wikipedia.org/wiki/Don_McGahn
+NA,Corey Lewandowski,Donald J Trump,association,Campaign Manager,https://en.m.wikipedia.org/wiki/Corey_Lewandowski
+NA,George Papadopoulos,Corey Lewandowski,association,“Campaign Official One”,https://en.m.wikipedia.org/wiki/Corey_Lewandowski
+2017-07-09,Alan Garten,Donald Trump Jr,association,Coordinated messaging,https://www.cnn.com/2018/05/16/politics/trump-tower-meeting-response/index.html
+2017-07-09,Alan Garten,Rob Goldstone,association,Coordinated messaging,https://www.cnn.com/2018/05/16/politics/trump-tower-meeting-response/index.html
+2017-07-09,Alan Garten,Emin Agalarov,association,Coordinated messaging,https://www.cnn.com/2018/05/16/politics/trump-tower-meeting-response/index.html
+2017-07-09,Alan Garten,Irakly Kaveladze,association,Coordinated messaging,https://www.cnn.com/2018/05/16/politics/trump-tower-meeting-response/index.html
+NA,Len Blavatnik,Sual Partners,association,Co-owner,https://www.buzzfeednews.com/article/emmaloop/steven-mnuchin-deripaska-russia-sanctions-jackie-speier
+NA,Viktor Vekselberg,Sual Partners,association,Co-owner,https://www.buzzfeednews.com/article/emmaloop/steven-mnuchin-deripaska-russia-sanctions-jackie-speier
+NA,Sual Partners,Rusal,association,Owns 26.5%,https://www.bloomberg.com/news/articles/2018-04-25/tangled-rusal-ownership-thwarts-easy-end-to-sanctions-quicktake
+NA,Dylan Howard,AMI,association,VP,https://en.wikipedia.org/wiki/Dylan_Howard
+NA,Jason Maloni,Paul Manafort,association,former spokesman,https://www.cnn.com/2017/09/15/politics/paul-manafort-spokesman-jason-maloni/index.html
+NA,Jay Sekulow,Donald J Trump,association,personal lawyer,https://en.wikipedia.org/wiki/Jay_Sekulow
+2017-02-27,Jay Sekulow,Michael D Cohen,association,alleges to change statement,https://en.wikipedia.org/wiki/Jay_Sekulow
+NA,KT McFarland,Michael Flynn,association,discussed sanctions,http://fortune.com/2018/09/22/mcfarland-revised-statement/
+NA,Mark Corallo,Donald J Trump,association,former legal spokesman,https://www.bustle.com/p/who-is-mark-corallo-trumps-former-legal-spokesperson-could-be-the-key-to-the-russia-investigation-8085736
+NA,Mark Corallo,Hope Hicks,association,possible knowledge of obstruction,https://www.bustle.com/p/who-is-mark-corallo-trumps-former-legal-spokesperson-could-be-the-key-to-the-russia-investigation-8085736
+NA,Hope Hicks,Donald J Trump,association,former comms director,https://en.wikipedia.org/wiki/Hope_Hicks
+NA,Matthew Calamari,Donald J Trump,association,long time body guard,https://www.washingtonpost.com/nation/2019/02/28/matthew-calamari-went-viral-after-cohen-hearing-hes-real-he-loves-trump/?utm_term=.27cf2574876a
+NA,Rhona Graff,Donald J Trump,association,exec assistant,https://en.wikipedia.org/wiki/Rhona_Graff
+NA,Rhona Graff,Trump Organization,association,senior vice president,https://en.wikipedia.org/wiki/Rhona_Graff
+NA,Ronald Lieberman,Trump Organization,association,exec vice president,https://www.businessinsider.com/trump-organization-executives-and-top-employees-2018-3#ron-lieberman-8
+NA,Ronald Lieberman,Michael D Cohen,association,"named as ""finance knowledge""",http://fortune.com/2019/02/28/trump-business-aides-michael-cohen/
+NA,Sam Nunberg,Donald J Trump,association,political advisor,https://en.wikipedia.org/wiki/Sam_Nunberg
+NA,Stefan Passantino,Trump Organization,association,legal advisor,https://www.cnn.com/2019/01/11/politics/trump-organization-oversight-passantino/index.html
+NA,Stefan Passantino,The White House,association,ex-ethics advisor,https://www.cnn.com/2019/01/11/politics/trump-organization-oversight-passantino/index.html
+2019-02-27,Jared Kushner,Mohammed bin Salman,association,Private meeting,https://www.thedailybeast.com/embassy-staffers-say-jared-kushner-shut-them-out-of-saudi-meetings
+2019-02-27,Mohammed bin Salman,Jared Kushner,association,Private meeting,https://www.thedailybeast.com/embassy-staffers-say-jared-kushner-shut-them-out-of-saudi-meetings
+NA,Li Yang,Orchids of Asia Day Spa,association,founded,http://polipace.com/2019/03/08/breaking-jupiter-sex-trafficking-madame-attended-white-house-on-behalf-of-trump/
+2019-01-22,Robert Kraft,Orchids of Asia Day Spa,association,attended,http://polipace.com/2019/03/08/breaking-jupiter-sex-trafficking-madame-attended-white-house-on-behalf-of-trump/
+2018-02-12,Li Yang,Donald J Trump,association,represented in confidential meetings,https://www.miamiherald.com/news/politics-government/article227186429.html
+2019-02-03,Li Yang,Donald J Trump,association,watched super bowl together,https://www.miamiherald.com/news/politics-government/article227186429.html
+2019-02-22,Jupiter Police Dept,Robert Kraft,indictment,soliciting prostitution,https://www.miamiherald.com/news/local/article226630229.html
+NA,Robert Kraft,Donald J Trump,association,close friends,https://www.miamiherald.com/news/local/article226630229.html
+NA,Donald J Trump,Robert Kraft,association,close friends,https://www.miamiherald.com/news/local/article226630229.html
+2019-02-22,Jupiter Police Dept,Orchids of Asia Day Spa,indictment,profiting from prostitution,https://www.miamiherald.com/news/local/article226630229.html
+NA,Li Yang,Trump Organization,payment,58000,http://polipace.com/2019/03/08/meet-donald-trumps-sex-trafficker/
+2015-01-26,Evgeny Buryakov,Federal Court,verdict,pled guilty to spying on US,https://en.wikipedia.org/wiki/Evgeny_Buryakov
+NA,Vnesheconombank,Evgeny Buryakov,association,employed,https://en.wikipedia.org/wiki/Evgeny_Buryakov
+2012-01-01,Evgeny Buryakov,Victor Podobnyy,association,handled by,https://en.wikipedia.org/wiki/Evgeny_Buryakov
+2013-01-01,Victor Podobnyy,Rick Gates,association,attempted recruitment,https://en.wikipedia.org/wiki/Evgeny_Buryakov
+2017-12-02,Li Yang,Donald J Trump,association,Sells access to,https://www.miamiherald.com/news/politics-government/article227358809.html
+2019-03-08,Li Yang,Council for Promotion of the Peaceful Reunification of China,association,member,https://www.motherjones.com/politics/2019/03/white-house-trump-doesnt-know-massage-parlor-owner-peddling-access-to-him-cindy-yang
+2019-03-08,Li Yang,Chinese Association of Science and Technology.,association,member,https://www.motherjones.com/politics/2019/03/white-house-trump-doesnt-know-massage-parlor-owner-peddling-access-to-him-cindy-yang
+2019-03-08,Council for Promotion of the Peaceful Reunification of China,Communist Party,association,direct ties,https://www.motherjones.com/politics/2019/03/white-house-trump-doesnt-know-massage-parlor-owner-peddling-access-to-him-cindy-yang
+2019-03-08,Chinese Association of Science and Technology.,Communist Party,association,direct ties,https://www.motherjones.com/politics/2019/03/white-house-trump-doesnt-know-massage-parlor-owner-peddling-access-to-him-cindy-yang
+2019-03-08,Communist Party,China,association,direct ties,https://www.motherjones.com/politics/2019/03/white-house-trump-doesnt-know-massage-parlor-owner-peddling-access-to-him-cindy-yang
+NA,Stephen Moore,Citizens for the Republic,association,co-founded,https://www.theguardian.com/business/2019/mar/22/stephen-moore-federal-reserve-paul-erickson-maria-butina
+NA,Paul Erickson,Citizens for the Republic,association,co-founded,https://www.theguardian.com/business/2019/mar/22/stephen-moore-federal-reserve-paul-erickson-maria-butina
+NA,Stephen Moore,Donald J Trump,association,nominated by for Fed Reserve,https://www.theguardian.com/business/2019/mar/22/stephen-moore-federal-reserve-paul-erickson-maria-butina
+2019-04-10,Federal Court,Gregory B Craig,indictment,False statements re: FARA,https://www.nytimes.com/2019/04/10/us/politics/ex-obama-counsel-expects-to-be-charged-soon-in-mueller-related-case.html
+NA,Gregory B Craig,Skadden Arps,association,former partner,https://www.nytimes.com/2019/04/10/us/politics/ex-obama-counsel-expects-to-be-charged-soon-in-mueller-related-case.html
+2019-04-15,Rusal,Braidy Industries,investment,200000000,https://www.marketwatch.com/story/russias-rusal-to-invest-200-million-in-kentucky-aluminum-plant-2019-04-14
+2018-08-18,Mitch McConnell,Braidy Industries,association,praises on Senate Floor,https://www.braidy.com/2018/08/08/mcconnell-highlights-success-of-braidy-industries/
+2017-09-21,Rand Paul,Braidy Industries,association,praises,https://www.dailyindependent.com/news/rand-paul-praises-braidy-industries-an-exciting-time-to-be/article_fa8f6f32-9ef6-11e7-90ed-a3a6d20587d4.html
+2018-04-01,Xinyue “Daniel” Lou,Trump Organization,association,official fund raiser,https://www.miamiherald.com/news/politics-government/article229151249.html
+2018-04-01,Xinyue “Daniel” Lou,Li Yang,association,Safari Night at Mar-a-Lago,https://www.miamiherald.com/news/politics-government/article229151249.html
+2018-01-17,George Nader,Federal Court,indictment,Child Pornography,https://www.washingtonpost.com/world/national-security/figure-linked-to-trump-transition-charged-with-transporting-child-pornography/2019/06/03/caee8aca-862a-11e9-98c1-e945ae5db8fb_story.html?utm_term=.dab253cf3dc2
