@@ -107,7 +107,7 @@ get_palette <- function(graph) {
 build_graph <- function() {
   #tangled <- read_csv(here::here("data/tangled.csv"))
   #graph <- make_graph(tangled)
-  readRDS(gzcon(url("https://github.com/schnee/tangled/blob/master/data/graph.RDS?raw=true")))
+  readRDS(gzcon(url("https://github.com/schnee/tangled/raw/master/data/graph.RDS")))
 }
 
 
